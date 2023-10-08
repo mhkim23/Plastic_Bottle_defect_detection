@@ -1,0 +1,122 @@
+{
+    "os": "Linux-5.15.0-84-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-10-06T16:03:00.330917",
+    "startedAt": "2023-10-06T16:02:59.465443",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "workspace/yb/yolo_swin_aug.ipynb",
+    "codePathLocal": null,
+    "root": "/",
+    "host": "7c5762eaf692",
+    "username": "root",
+    "executable": "/usr/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2396.767625,
+        "min": 800.0,
+        "max": 4275.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 848.282,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.3232879638672,
+            "used": 110.91194534301758
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.451316833496094
+    }
+}

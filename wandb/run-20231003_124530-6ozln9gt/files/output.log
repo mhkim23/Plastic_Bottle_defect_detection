@@ -1,0 +1,600 @@
+<<<iteration:[20/117] - total_loss: 10.0012  obj_loss: 0.0653  noobj_loss: 1.1336  bbox_loss: 1.7076  cls_loss: 0.8313
+<<<iteration:[40/117] - total_loss: 6.1174  obj_loss: 0.0661  noobj_loss: 1.0699  bbox_loss: 1.0060  cls_loss: 0.4862
+<<<iteration:[60/117] - total_loss: 5.3445  obj_loss: 0.0384  noobj_loss: 1.0399  bbox_loss: 0.8482  cls_loss: 0.5450
+<<<iteration:[80/117] - total_loss: 6.1004  obj_loss: 0.0809  noobj_loss: 0.9702  bbox_loss: 0.9511  cls_loss: 0.7788
+<<<iteration:[100/117] - total_loss: 5.7960  obj_loss: 0.0682  noobj_loss: 0.9686  bbox_loss: 0.9143  cls_loss: 0.6722
+epoch:1/100 - Train Loss: 6.4320, Val Loss: 10.4970
+<<<iteration:[20/117] - total_loss: 4.5339  obj_loss: 0.0439  noobj_loss: 0.9305  bbox_loss: 0.7098  cls_loss: 0.4758
+<<<iteration:[40/117] - total_loss: 5.7652  obj_loss: 0.0570  noobj_loss: 0.8886  bbox_loss: 0.9491  cls_loss: 0.5183
+<<<iteration:[60/117] - total_loss: 5.3198  obj_loss: 0.0554  noobj_loss: 0.8942  bbox_loss: 0.8477  cls_loss: 0.5789
+<<<iteration:[80/117] - total_loss: 4.6485  obj_loss: 0.0412  noobj_loss: 0.8654  bbox_loss: 0.7255  cls_loss: 0.5470
+<<<iteration:[100/117] - total_loss: 5.3148  obj_loss: 0.0816  noobj_loss: 0.9011  bbox_loss: 0.8499  cls_loss: 0.5331
+epoch:2/100 - Train Loss: 5.0585, Val Loss: 9.5741
+<<<iteration:[20/117] - total_loss: 5.1003  obj_loss: 0.0640  noobj_loss: 0.8352  bbox_loss: 0.8453  cls_loss: 0.3921
+<<<iteration:[40/117] - total_loss: 4.8651  obj_loss: 0.0580  noobj_loss: 0.8130  bbox_loss: 0.7920  cls_loss: 0.4407
+<<<iteration:[60/117] - total_loss: 4.0273  obj_loss: 0.0922  noobj_loss: 0.7989  bbox_loss: 0.6279  cls_loss: 0.3959
+<<<iteration:[80/117] - total_loss: 4.0027  obj_loss: 0.0490  noobj_loss: 0.8386  bbox_loss: 0.6280  cls_loss: 0.3946
+<<<iteration:[100/117] - total_loss: 5.1956  obj_loss: 0.0611  noobj_loss: 0.8586  bbox_loss: 0.8647  cls_loss: 0.3815
+epoch:3/100 - Train Loss: 4.6280, Val Loss: 9.9416
+<<<iteration:[20/117] - total_loss: 3.7042  obj_loss: 0.0601  noobj_loss: 0.7918  bbox_loss: 0.5693  cls_loss: 0.4020
+<<<iteration:[40/117] - total_loss: 4.5553  obj_loss: 0.0538  noobj_loss: 0.7244  bbox_loss: 0.7597  cls_loss: 0.3410
+<<<iteration:[60/117] - total_loss: 4.5344  obj_loss: 0.0690  noobj_loss: 0.7998  bbox_loss: 0.7173  cls_loss: 0.4789
+<<<iteration:[80/117] - total_loss: 3.6369  obj_loss: 0.0649  noobj_loss: 0.6748  bbox_loss: 0.5936  cls_loss: 0.2668
+<<<iteration:[100/117] - total_loss: 4.7644  obj_loss: 0.0996  noobj_loss: 0.6899  bbox_loss: 0.7934  cls_loss: 0.3529
+epoch:4/100 - Train Loss: 4.2255, Val Loss: 9.9745
+<<<iteration:[20/117] - total_loss: 4.3781  obj_loss: 0.0596  noobj_loss: 0.6780  bbox_loss: 0.7407  cls_loss: 0.2761
+<<<iteration:[40/117] - total_loss: 3.6597  obj_loss: 0.0735  noobj_loss: 0.6275  bbox_loss: 0.5922  cls_loss: 0.3112
+<<<iteration:[60/117] - total_loss: 3.5940  obj_loss: 0.1009  noobj_loss: 0.6488  bbox_loss: 0.5675  cls_loss: 0.3312
+<<<iteration:[80/117] - total_loss: 4.5669  obj_loss: 0.0632  noobj_loss: 0.6450  bbox_loss: 0.7787  cls_loss: 0.2880
+<<<iteration:[100/117] - total_loss: 4.5899  obj_loss: 0.0706  noobj_loss: 0.6554  bbox_loss: 0.7724  cls_loss: 0.3294
+epoch:5/100 - Train Loss: 4.0939, Val Loss: 9.8854
+<<<iteration:[20/117] - total_loss: 2.9030  obj_loss: 0.0804  noobj_loss: 0.6315  bbox_loss: 0.4567  cls_loss: 0.2235
+<<<iteration:[40/117] - total_loss: 4.8784  obj_loss: 0.1165  noobj_loss: 0.5908  bbox_loss: 0.8303  cls_loss: 0.3151
+<<<iteration:[60/117] - total_loss: 3.9288  obj_loss: 0.0746  noobj_loss: 0.5979  bbox_loss: 0.6462  cls_loss: 0.3243
+<<<iteration:[80/117] - total_loss: 3.3420  obj_loss: 0.0695  noobj_loss: 0.5603  bbox_loss: 0.5497  cls_loss: 0.2439
+<<<iteration:[100/117] - total_loss: 3.0535  obj_loss: 0.0587  noobj_loss: 0.5733  bbox_loss: 0.4956  cls_loss: 0.2300
+epoch:6/100 - Train Loss: 3.6188, Val Loss: 8.8613
+<<<iteration:[20/117] - total_loss: 3.3683  obj_loss: 0.0926  noobj_loss: 0.5606  bbox_loss: 0.5450  cls_loss: 0.2702
+<<<iteration:[40/117] - total_loss: 3.1580  obj_loss: 0.0780  noobj_loss: 0.5534  bbox_loss: 0.5244  cls_loss: 0.1812
+<<<iteration:[60/117] - total_loss: 3.4946  obj_loss: 0.0773  noobj_loss: 0.6016  bbox_loss: 0.5933  cls_loss: 0.1501
+<<<iteration:[80/117] - total_loss: 3.0206  obj_loss: 0.0874  noobj_loss: 0.5480  bbox_loss: 0.4661  cls_loss: 0.3286
+<<<iteration:[100/117] - total_loss: 4.4247  obj_loss: 0.0703  noobj_loss: 0.5270  bbox_loss: 0.7544  cls_loss: 0.3187
+epoch:7/100 - Train Loss: 3.3888, Val Loss: 9.1062
+<<<iteration:[20/117] - total_loss: 3.0749  obj_loss: 0.1040  noobj_loss: 0.5286  bbox_loss: 0.5121  cls_loss: 0.1464
+<<<iteration:[40/117] - total_loss: 2.9030  obj_loss: 0.1252  noobj_loss: 0.5077  bbox_loss: 0.4659  cls_loss: 0.1944
+<<<iteration:[60/117] - total_loss: 3.0743  obj_loss: 0.1065  noobj_loss: 0.4946  bbox_loss: 0.5074  cls_loss: 0.1835
+<<<iteration:[80/117] - total_loss: 3.1318  obj_loss: 0.0720  noobj_loss: 0.4879  bbox_loss: 0.5176  cls_loss: 0.2280
+<<<iteration:[100/117] - total_loss: 2.9729  obj_loss: 0.1037  noobj_loss: 0.4825  bbox_loss: 0.4834  cls_loss: 0.2109
+epoch:8/100 - Train Loss: 2.9465, Val Loss: 8.2846
+<<<iteration:[20/117] - total_loss: 2.7506  obj_loss: 0.0751  noobj_loss: 0.4950  bbox_loss: 0.4570  cls_loss: 0.1430
+<<<iteration:[40/117] - total_loss: 3.2331  obj_loss: 0.1374  noobj_loss: 0.4644  bbox_loss: 0.5367  cls_loss: 0.1801
+<<<iteration:[60/117] - total_loss: 2.7466  obj_loss: 0.1060  noobj_loss: 0.4517  bbox_loss: 0.4431  cls_loss: 0.1993
+<<<iteration:[80/117] - total_loss: 2.3230  obj_loss: 0.0995  noobj_loss: 0.4672  bbox_loss: 0.3762  cls_loss: 0.1091
+<<<iteration:[100/117] - total_loss: 3.1967  obj_loss: 0.0843  noobj_loss: 0.4603  bbox_loss: 0.5340  cls_loss: 0.2124
+epoch:9/100 - Train Loss: 2.7883, Val Loss: 8.9956
+<<<iteration:[20/117] - total_loss: 2.5670  obj_loss: 0.0849  noobj_loss: 0.4484  bbox_loss: 0.4224  cls_loss: 0.1459
+<<<iteration:[40/117] - total_loss: 2.5503  obj_loss: 0.1197  noobj_loss: 0.4365  bbox_loss: 0.4142  cls_loss: 0.1412
+<<<iteration:[60/117] - total_loss: 2.5546  obj_loss: 0.1238  noobj_loss: 0.4520  bbox_loss: 0.4103  cls_loss: 0.1532
+<<<iteration:[80/117] - total_loss: 2.8206  obj_loss: 0.1221  noobj_loss: 0.4543  bbox_loss: 0.4555  cls_loss: 0.1939
+<<<iteration:[100/117] - total_loss: 3.2085  obj_loss: 0.0980  noobj_loss: 0.4399  bbox_loss: 0.5370  cls_loss: 0.2054
+epoch:10/100 - Train Loss: 2.6944, Val Loss: 8.1850
+<<<iteration:[20/117] - total_loss: 2.3225  obj_loss: 0.1179  noobj_loss: 0.4527  bbox_loss: 0.3682  cls_loss: 0.1371
+<<<iteration:[40/117] - total_loss: 2.8553  obj_loss: 0.0826  noobj_loss: 0.4578  bbox_loss: 0.4718  cls_loss: 0.1846
+<<<iteration:[60/117] - total_loss: 2.4595  obj_loss: 0.0693  noobj_loss: 0.4239  bbox_loss: 0.4075  cls_loss: 0.1406
+<<<iteration:[80/117] - total_loss: 3.0209  obj_loss: 0.0423  noobj_loss: 0.4237  bbox_loss: 0.5217  cls_loss: 0.1585
+<<<iteration:[100/117] - total_loss: 3.2537  obj_loss: 0.0913  noobj_loss: 0.4193  bbox_loss: 0.5532  cls_loss: 0.1871
+epoch:11/100 - Train Loss: 2.6984, Val Loss: 8.6173
+<<<iteration:[20/117] - total_loss: 3.3384  obj_loss: 0.0676  noobj_loss: 0.4103  bbox_loss: 0.5807  cls_loss: 0.1620
+<<<iteration:[40/117] - total_loss: 3.0773  obj_loss: 0.1173  noobj_loss: 0.4126  bbox_loss: 0.5231  cls_loss: 0.1382
+<<<iteration:[60/117] - total_loss: 3.0657  obj_loss: 0.0926  noobj_loss: 0.3850  bbox_loss: 0.5321  cls_loss: 0.1200
+<<<iteration:[80/117] - total_loss: 2.4304  obj_loss: 0.0689  noobj_loss: 0.4244  bbox_loss: 0.3985  cls_loss: 0.1570
+<<<iteration:[100/117] - total_loss: 2.7177  obj_loss: 0.0597  noobj_loss: 0.4194  bbox_loss: 0.4598  cls_loss: 0.1494
+epoch:12/100 - Train Loss: 2.7835, Val Loss: 7.9702
+<<<iteration:[20/117] - total_loss: 2.6853  obj_loss: 0.0886  noobj_loss: 0.3784  bbox_loss: 0.4560  cls_loss: 0.1272
+<<<iteration:[40/117] - total_loss: 2.4770  obj_loss: 0.1230  noobj_loss: 0.3848  bbox_loss: 0.4023  cls_loss: 0.1499
+<<<iteration:[60/117] - total_loss: 2.6437  obj_loss: 0.0748  noobj_loss: 0.3899  bbox_loss: 0.4520  cls_loss: 0.1142
+<<<iteration:[80/117] - total_loss: 2.5573  obj_loss: 0.1268  noobj_loss: 0.3987  bbox_loss: 0.4197  cls_loss: 0.1326
+<<<iteration:[100/117] - total_loss: 2.1451  obj_loss: 0.1155  noobj_loss: 0.3562  bbox_loss: 0.3496  cls_loss: 0.1036
+epoch:13/100 - Train Loss: 2.5375, Val Loss: 8.3016
+<<<iteration:[20/117] - total_loss: 3.1815  obj_loss: 0.0639  noobj_loss: 0.4030  bbox_loss: 0.5538  cls_loss: 0.1472
+<<<iteration:[40/117] - total_loss: 2.5137  obj_loss: 0.0912  noobj_loss: 0.3513  bbox_loss: 0.4303  cls_loss: 0.0953
+<<<iteration:[60/117] - total_loss: 2.5420  obj_loss: 0.1141  noobj_loss: 0.3433  bbox_loss: 0.4255  cls_loss: 0.1289
+<<<iteration:[80/117] - total_loss: 2.4893  obj_loss: 0.1004  noobj_loss: 0.3635  bbox_loss: 0.4135  cls_loss: 0.1395
+<<<iteration:[100/117] - total_loss: 2.0394  obj_loss: 0.0776  noobj_loss: 0.3486  bbox_loss: 0.3400  cls_loss: 0.0873
+epoch:14/100 - Train Loss: 2.5089, Val Loss: 7.3701
+<<<iteration:[20/117] - total_loss: 2.9869  obj_loss: 0.2114  noobj_loss: 0.3530  bbox_loss: 0.4959  cls_loss: 0.1196
+<<<iteration:[40/117] - total_loss: 2.4606  obj_loss: 0.1166  noobj_loss: 0.3514  bbox_loss: 0.4139  cls_loss: 0.0988
+<<<iteration:[60/117] - total_loss: 2.6222  obj_loss: 0.0908  noobj_loss: 0.3598  bbox_loss: 0.4438  cls_loss: 0.1327
+<<<iteration:[80/117] - total_loss: 1.8925  obj_loss: 0.0866  noobj_loss: 0.3546  bbox_loss: 0.2984  cls_loss: 0.1364
+<<<iteration:[100/117] - total_loss: 2.2151  obj_loss: 0.0655  noobj_loss: 0.3425  bbox_loss: 0.3731  cls_loss: 0.1127
+epoch:15/100 - Train Loss: 2.3360, Val Loss: 7.5056
+<<<iteration:[20/117] - total_loss: 2.6447  obj_loss: 0.1333  noobj_loss: 0.3486  bbox_loss: 0.4385  cls_loss: 0.1447
+<<<iteration:[40/117] - total_loss: 2.2219  obj_loss: 0.1140  noobj_loss: 0.3532  bbox_loss: 0.3674  cls_loss: 0.0945
+<<<iteration:[60/117] - total_loss: 1.8962  obj_loss: 0.0629  noobj_loss: 0.3058  bbox_loss: 0.3209  cls_loss: 0.0760
+<<<iteration:[80/117] - total_loss: 2.3690  obj_loss: 0.0465  noobj_loss: 0.3365  bbox_loss: 0.4132  cls_loss: 0.0881
+<<<iteration:[100/117] - total_loss: 2.7237  obj_loss: 0.1485  noobj_loss: 0.3446  bbox_loss: 0.4554  cls_loss: 0.1259
+epoch:16/100 - Train Loss: 2.2619, Val Loss: 8.0555
+<<<iteration:[20/117] - total_loss: 2.5778  obj_loss: 0.0973  noobj_loss: 0.3168  bbox_loss: 0.4416  cls_loss: 0.1143
+<<<iteration:[40/117] - total_loss: 2.8062  obj_loss: 0.1041  noobj_loss: 0.3231  bbox_loss: 0.4856  cls_loss: 0.1122
+<<<iteration:[60/117] - total_loss: 1.9823  obj_loss: 0.1754  noobj_loss: 0.3194  bbox_loss: 0.3093  cls_loss: 0.1010
+<<<iteration:[80/117] - total_loss: 2.1885  obj_loss: 0.0953  noobj_loss: 0.3301  bbox_loss: 0.3703  cls_loss: 0.0767
+<<<iteration:[100/117] - total_loss: 3.2126  obj_loss: 0.0848  noobj_loss: 0.3534  bbox_loss: 0.5701  cls_loss: 0.1005
+epoch:17/100 - Train Loss: 2.4471, Val Loss: 7.6778
+<<<iteration:[20/117] - total_loss: 1.7916  obj_loss: 0.1912  noobj_loss: 0.3262  bbox_loss: 0.2705  cls_loss: 0.0849
+<<<iteration:[40/117] - total_loss: 1.6891  obj_loss: 0.0876  noobj_loss: 0.3015  bbox_loss: 0.2760  cls_loss: 0.0706
+<<<iteration:[60/117] - total_loss: 2.0828  obj_loss: 0.0742  noobj_loss: 0.3226  bbox_loss: 0.3481  cls_loss: 0.1068
+<<<iteration:[80/117] - total_loss: 2.0741  obj_loss: 0.0601  noobj_loss: 0.3110  bbox_loss: 0.3511  cls_loss: 0.1033
+<<<iteration:[100/117] - total_loss: 2.2234  obj_loss: 0.0750  noobj_loss: 0.2973  bbox_loss: 0.3821  cls_loss: 0.0895
+epoch:18/100 - Train Loss: 2.0308, Val Loss: 8.3062
+<<<iteration:[20/117] - total_loss: 3.4476  obj_loss: 0.0435  noobj_loss: 0.4150  bbox_loss: 0.6066  cls_loss: 0.1638
+<<<iteration:[40/117] - total_loss: 1.8236  obj_loss: 0.0390  noobj_loss: 0.3297  bbox_loss: 0.3019  cls_loss: 0.1104
+<<<iteration:[60/117] - total_loss: 2.2974  obj_loss: 0.0759  noobj_loss: 0.3238  bbox_loss: 0.3885  cls_loss: 0.1172
+<<<iteration:[80/117] - total_loss: 2.0343  obj_loss: 0.0848  noobj_loss: 0.3380  bbox_loss: 0.3384  cls_loss: 0.0886
+<<<iteration:[100/117] - total_loss: 1.8153  obj_loss: 0.0650  noobj_loss: 0.3006  bbox_loss: 0.2965  cls_loss: 0.1176
+epoch:19/100 - Train Loss: 2.3259, Val Loss: 6.6545
+<<<iteration:[20/117] - total_loss: 2.0609  obj_loss: 0.1482  noobj_loss: 0.3134  bbox_loss: 0.3326  cls_loss: 0.0927
+<<<iteration:[40/117] - total_loss: 3.0321  obj_loss: 0.0687  noobj_loss: 0.2975  bbox_loss: 0.5376  cls_loss: 0.1265
+<<<iteration:[60/117] - total_loss: 1.7596  obj_loss: 0.0919  noobj_loss: 0.3029  bbox_loss: 0.2828  cls_loss: 0.1024
+<<<iteration:[80/117] - total_loss: 1.7495  obj_loss: 0.1327  noobj_loss: 0.2892  bbox_loss: 0.2729  cls_loss: 0.1078
+<<<iteration:[100/117] - total_loss: 1.8425  obj_loss: 0.1021  noobj_loss: 0.3237  bbox_loss: 0.3010  cls_loss: 0.0735
+epoch:20/100 - Train Loss: 2.5075, Val Loss: 9.7275
+<<<iteration:[20/117] - total_loss: 3.7961  obj_loss: 0.0620  noobj_loss: 0.4335  bbox_loss: 0.6748  cls_loss: 0.1433
+<<<iteration:[40/117] - total_loss: 2.0792  obj_loss: 0.0779  noobj_loss: 0.3641  bbox_loss: 0.3439  cls_loss: 0.0999
+<<<iteration:[60/117] - total_loss: 2.1962  obj_loss: 0.0808  noobj_loss: 0.3482  bbox_loss: 0.3573  cls_loss: 0.1549
+<<<iteration:[80/117] - total_loss: 2.1958  obj_loss: 0.0717  noobj_loss: 0.3603  bbox_loss: 0.3620  cls_loss: 0.1338
+<<<iteration:[100/117] - total_loss: 2.8896  obj_loss: 0.0533  noobj_loss: 0.3405  bbox_loss: 0.5027  cls_loss: 0.1523
+epoch:21/100 - Train Loss: 2.5873, Val Loss: 7.7509
+<<<iteration:[20/117] - total_loss: 2.5670  obj_loss: 0.0944  noobj_loss: 0.3343  bbox_loss: 0.4368  cls_loss: 0.1216
+<<<iteration:[40/117] - total_loss: 2.0800  obj_loss: 0.1286  noobj_loss: 0.3019  bbox_loss: 0.3371  cls_loss: 0.1150
+<<<iteration:[60/117] - total_loss: 1.8850  obj_loss: 0.1106  noobj_loss: 0.3174  bbox_loss: 0.3072  cls_loss: 0.0798
+<<<iteration:[80/117] - total_loss: 2.3157  obj_loss: 0.0950  noobj_loss: 0.2953  bbox_loss: 0.3952  cls_loss: 0.0973
+<<<iteration:[100/117] - total_loss: 1.6351  obj_loss: 0.1035  noobj_loss: 0.2963  bbox_loss: 0.2581  cls_loss: 0.0928
+epoch:22/100 - Train Loss: 2.0186, Val Loss: 7.3742
+<<<iteration:[20/117] - total_loss: 1.9993  obj_loss: 0.1631  noobj_loss: 0.3017  bbox_loss: 0.3153  cls_loss: 0.1088
+<<<iteration:[40/117] - total_loss: 1.9231  obj_loss: 0.0898  noobj_loss: 0.2864  bbox_loss: 0.3244  cls_loss: 0.0680
+<<<iteration:[60/117] - total_loss: 5.5454  obj_loss: 0.0455  noobj_loss: 0.3297  bbox_loss: 1.0450  cls_loss: 0.1098
+<<<iteration:[80/117] - total_loss: 3.7464  obj_loss: 0.0709  noobj_loss: 0.3269  bbox_loss: 0.6787  cls_loss: 0.1187
+<<<iteration:[100/117] - total_loss: 1.6875  obj_loss: 0.0806  noobj_loss: 0.3123  bbox_loss: 0.2755  cls_loss: 0.0730
+epoch:23/100 - Train Loss: 2.9042, Val Loss: 7.5031
+<<<iteration:[20/117] - total_loss: 1.9427  obj_loss: 0.1114  noobj_loss: 0.2867  bbox_loss: 0.3238  cls_loss: 0.0690
+<<<iteration:[40/117] - total_loss: 2.1573  obj_loss: 0.1141  noobj_loss: 0.2945  bbox_loss: 0.3655  cls_loss: 0.0682
+<<<iteration:[60/117] - total_loss: 2.3257  obj_loss: 0.0770  noobj_loss: 0.2697  bbox_loss: 0.4045  cls_loss: 0.0915
+<<<iteration:[80/117] - total_loss: 1.5315  obj_loss: 0.0986  noobj_loss: 0.2870  bbox_loss: 0.2409  cls_loss: 0.0847
+<<<iteration:[100/117] - total_loss: 1.8992  obj_loss: 0.1430  noobj_loss: 0.2903  bbox_loss: 0.3057  cls_loss: 0.0825
+epoch:24/100 - Train Loss: 1.8607, Val Loss: 7.3892
+<<<iteration:[20/117] - total_loss: 2.0614  obj_loss: 0.1321  noobj_loss: 0.2814  bbox_loss: 0.3397  cls_loss: 0.0900
+<<<iteration:[40/117] - total_loss: 1.9950  obj_loss: 0.1025  noobj_loss: 0.2841  bbox_loss: 0.3339  cls_loss: 0.0808
+<<<iteration:[60/117] - total_loss: 2.1971  obj_loss: 0.0717  noobj_loss: 0.3038  bbox_loss: 0.3794  cls_loss: 0.0766
+<<<iteration:[80/117] - total_loss: 1.5289  obj_loss: 0.0632  noobj_loss: 0.2847  bbox_loss: 0.2536  cls_loss: 0.0554
+<<<iteration:[100/117] - total_loss: 2.0679  obj_loss: 0.0924  noobj_loss: 0.2639  bbox_loss: 0.3554  cls_loss: 0.0668
+epoch:25/100 - Train Loss: 1.8574, Val Loss: 6.6816
+<<<iteration:[20/117] - total_loss: 1.2812  obj_loss: 0.2042  noobj_loss: 0.2750  bbox_loss: 0.1791  cls_loss: 0.0441
+<<<iteration:[40/117] - total_loss: 1.4981  obj_loss: 0.0892  noobj_loss: 0.2644  bbox_loss: 0.2459  cls_loss: 0.0470
+<<<iteration:[60/117] - total_loss: 1.9314  obj_loss: 0.1472  noobj_loss: 0.2550  bbox_loss: 0.3164  cls_loss: 0.0749
+<<<iteration:[80/117] - total_loss: 1.6243  obj_loss: 0.1190  noobj_loss: 0.2704  bbox_loss: 0.2627  cls_loss: 0.0564
+<<<iteration:[100/117] - total_loss: 1.5511  obj_loss: 0.0984  noobj_loss: 0.2714  bbox_loss: 0.2508  cls_loss: 0.0629
+epoch:26/100 - Train Loss: 1.5567, Val Loss: 7.0433
+<<<iteration:[20/117] - total_loss: 1.6459  obj_loss: 0.1931  noobj_loss: 0.2786  bbox_loss: 0.2497  cls_loss: 0.0650
+<<<iteration:[40/117] - total_loss: 1.9821  obj_loss: 0.1552  noobj_loss: 0.2492  bbox_loss: 0.3237  cls_loss: 0.0837
+<<<iteration:[60/117] - total_loss: 2.2574  obj_loss: 0.0625  noobj_loss: 0.2514  bbox_loss: 0.3997  cls_loss: 0.0708
+<<<iteration:[80/117] - total_loss: 1.9982  obj_loss: 0.1009  noobj_loss: 0.2821  bbox_loss: 0.3413  cls_loss: 0.0496
+<<<iteration:[100/117] - total_loss: 1.6777  obj_loss: 0.0673  noobj_loss: 0.2489  bbox_loss: 0.2879  cls_loss: 0.0464
+epoch:27/100 - Train Loss: 1.8139, Val Loss: 6.3735
+<<<iteration:[20/117] - total_loss: 1.3720  obj_loss: 0.1977  noobj_loss: 0.2578  bbox_loss: 0.2005  cls_loss: 0.0429
+<<<iteration:[40/117] - total_loss: 1.5213  obj_loss: 0.1170  noobj_loss: 0.2647  bbox_loss: 0.2456  cls_loss: 0.0438
+<<<iteration:[60/117] - total_loss: 2.0121  obj_loss: 0.1061  noobj_loss: 0.2410  bbox_loss: 0.3444  cls_loss: 0.0635
+<<<iteration:[80/117] - total_loss: 1.5382  obj_loss: 0.1088  noobj_loss: 0.2380  bbox_loss: 0.2547  cls_loss: 0.0371
+<<<iteration:[100/117] - total_loss: 1.4102  obj_loss: 0.0796  noobj_loss: 0.2260  bbox_loss: 0.2339  cls_loss: 0.0482
+epoch:28/100 - Train Loss: 1.5527, Val Loss: 6.5735
+<<<iteration:[20/117] - total_loss: 1.2045  obj_loss: 0.1010  noobj_loss: 0.2405  bbox_loss: 0.1886  cls_loss: 0.0404
+<<<iteration:[40/117] - total_loss: 1.6633  obj_loss: 0.1234  noobj_loss: 0.2339  bbox_loss: 0.2761  cls_loss: 0.0424
+<<<iteration:[60/117] - total_loss: 1.5557  obj_loss: 0.1837  noobj_loss: 0.2208  bbox_loss: 0.2444  cls_loss: 0.0398
+<<<iteration:[80/117] - total_loss: 1.1893  obj_loss: 0.1441  noobj_loss: 0.2297  bbox_loss: 0.1764  cls_loss: 0.0481
+<<<iteration:[100/117] - total_loss: 1.9759  obj_loss: 0.1182  noobj_loss: 0.2349  bbox_loss: 0.3371  cls_loss: 0.0550
+epoch:29/100 - Train Loss: 1.4863, Val Loss: 6.9896
+<<<iteration:[20/117] - total_loss: 1.9898  obj_loss: 0.1263  noobj_loss: 0.2435  bbox_loss: 0.3414  cls_loss: 0.0349
+<<<iteration:[40/117] - total_loss: 1.6774  obj_loss: 0.1040  noobj_loss: 0.2168  bbox_loss: 0.2807  cls_loss: 0.0615
+<<<iteration:[60/117] - total_loss: 1.3203  obj_loss: 0.1466  noobj_loss: 0.2188  bbox_loss: 0.2035  cls_loss: 0.0469
+<<<iteration:[80/117] - total_loss: 1.0593  obj_loss: 0.0895  noobj_loss: 0.2077  bbox_loss: 0.1683  cls_loss: 0.0242
+<<<iteration:[100/117] - total_loss: 1.3755  obj_loss: 0.0812  noobj_loss: 0.2378  bbox_loss: 0.2271  cls_loss: 0.0399
+epoch:30/100 - Train Loss: 1.4429, Val Loss: 6.5494
+<<<iteration:[20/117] - total_loss: 1.6878  obj_loss: 0.1327  noobj_loss: 0.2160  bbox_loss: 0.2804  cls_loss: 0.0452
+<<<iteration:[40/117] - total_loss: 1.3569  obj_loss: 0.0979  noobj_loss: 0.2199  bbox_loss: 0.2214  cls_loss: 0.0423
+<<<iteration:[60/117] - total_loss: 1.4297  obj_loss: 0.0936  noobj_loss: 0.2082  bbox_loss: 0.2357  cls_loss: 0.0535
+<<<iteration:[80/117] - total_loss: 1.3939  obj_loss: 0.1340  noobj_loss: 0.2200  bbox_loss: 0.2235  cls_loss: 0.0326
+<<<iteration:[100/117] - total_loss: 1.7455  obj_loss: 0.1169  noobj_loss: 0.2331  bbox_loss: 0.2937  cls_loss: 0.0436
+epoch:31/100 - Train Loss: 1.4195, Val Loss: 6.3966
+<<<iteration:[20/117] - total_loss: 1.4933  obj_loss: 0.2281  noobj_loss: 0.2398  bbox_loss: 0.2202  cls_loss: 0.0443
+<<<iteration:[40/117] - total_loss: 1.0279  obj_loss: 0.1296  noobj_loss: 0.2250  bbox_loss: 0.1505  cls_loss: 0.0331
+<<<iteration:[60/117] - total_loss: 1.8661  obj_loss: 0.1135  noobj_loss: 0.2097  bbox_loss: 0.3210  cls_loss: 0.0427
+<<<iteration:[80/117] - total_loss: 0.9959  obj_loss: 0.0878  noobj_loss: 0.1993  bbox_loss: 0.1566  cls_loss: 0.0257
+<<<iteration:[100/117] - total_loss: 1.2105  obj_loss: 0.1560  noobj_loss: 0.2061  bbox_loss: 0.1817  cls_loss: 0.0429
+epoch:32/100 - Train Loss: 1.3156, Val Loss: 6.5914
+<<<iteration:[20/117] - total_loss: 1.5244  obj_loss: 0.1383  noobj_loss: 0.2065  bbox_loss: 0.2496  cls_loss: 0.0348
+<<<iteration:[40/117] - total_loss: 0.8050  obj_loss: 0.1098  noobj_loss: 0.2045  bbox_loss: 0.1134  cls_loss: 0.0262
+<<<iteration:[60/117] - total_loss: 1.2623  obj_loss: 0.1692  noobj_loss: 0.2179  bbox_loss: 0.1886  cls_loss: 0.0413
+<<<iteration:[80/117] - total_loss: 1.1948  obj_loss: 0.1041  noobj_loss: 0.2015  bbox_loss: 0.1910  cls_loss: 0.0352
+<<<iteration:[100/117] - total_loss: 1.7169  obj_loss: 0.1008  noobj_loss: 0.2070  bbox_loss: 0.2946  cls_loss: 0.0394
+epoch:33/100 - Train Loss: 1.2695, Val Loss: 6.2943
+<<<iteration:[20/117] - total_loss: 1.1175  obj_loss: 0.1677  noobj_loss: 0.2211  bbox_loss: 0.1633  cls_loss: 0.0226
+<<<iteration:[40/117] - total_loss: 0.7416  obj_loss: 0.1276  noobj_loss: 0.1851  bbox_loss: 0.1007  cls_loss: 0.0182
+<<<iteration:[60/117] - total_loss: 1.2639  obj_loss: 0.1489  noobj_loss: 0.1886  bbox_loss: 0.1966  cls_loss: 0.0374
+<<<iteration:[80/117] - total_loss: 1.2932  obj_loss: 0.1205  noobj_loss: 0.2079  bbox_loss: 0.2076  cls_loss: 0.0307
+<<<iteration:[100/117] - total_loss: 1.5550  obj_loss: 0.2119  noobj_loss: 0.2091  bbox_loss: 0.2404  cls_loss: 0.0364
+epoch:34/100 - Train Loss: 1.2073, Val Loss: 5.6990
+<<<iteration:[20/117] - total_loss: 1.5734  obj_loss: 0.1651  noobj_loss: 0.2190  bbox_loss: 0.2502  cls_loss: 0.0479
+<<<iteration:[40/117] - total_loss: 1.3447  obj_loss: 0.1895  noobj_loss: 0.2152  bbox_loss: 0.2042  cls_loss: 0.0265
+<<<iteration:[60/117] - total_loss: 0.8268  obj_loss: 0.1927  noobj_loss: 0.2223  bbox_loss: 0.0999  cls_loss: 0.0236
+<<<iteration:[80/117] - total_loss: 0.9762  obj_loss: 0.0881  noobj_loss: 0.2118  bbox_loss: 0.1510  cls_loss: 0.0271
+<<<iteration:[100/117] - total_loss: 1.0388  obj_loss: 0.1367  noobj_loss: 0.1922  bbox_loss: 0.1561  cls_loss: 0.0253
+epoch:35/100 - Train Loss: 1.1425, Val Loss: 6.3969
+<<<iteration:[20/117] - total_loss: 1.2601  obj_loss: 0.1797  noobj_loss: 0.1980  bbox_loss: 0.1900  cls_loss: 0.0312
+<<<iteration:[40/117] - total_loss: 1.2613  obj_loss: 0.1506  noobj_loss: 0.1973  bbox_loss: 0.1967  cls_loss: 0.0287
+<<<iteration:[60/117] - total_loss: 0.9910  obj_loss: 0.1589  noobj_loss: 0.1980  bbox_loss: 0.1437  cls_loss: 0.0145
+<<<iteration:[80/117] - total_loss: 0.9913  obj_loss: 0.1812  noobj_loss: 0.2031  bbox_loss: 0.1376  cls_loss: 0.0204
+<<<iteration:[100/117] - total_loss: 0.9724  obj_loss: 0.1474  noobj_loss: 0.1983  bbox_loss: 0.1409  cls_loss: 0.0213
+epoch:36/100 - Train Loss: 1.1342, Val Loss: 6.2994
+<<<iteration:[20/117] - total_loss: 1.1613  obj_loss: 0.1919  noobj_loss: 0.2054  bbox_loss: 0.1697  cls_loss: 0.0179
+<<<iteration:[40/117] - total_loss: 1.1157  obj_loss: 0.1973  noobj_loss: 0.1890  bbox_loss: 0.1609  cls_loss: 0.0193
+<<<iteration:[60/117] - total_loss: 1.1930  obj_loss: 0.1264  noobj_loss: 0.1878  bbox_loss: 0.1900  cls_loss: 0.0227
+<<<iteration:[80/117] - total_loss: 1.2763  obj_loss: 0.1515  noobj_loss: 0.1934  bbox_loss: 0.1987  cls_loss: 0.0345
+<<<iteration:[100/117] - total_loss: 1.2555  obj_loss: 0.1483  noobj_loss: 0.2068  bbox_loss: 0.1947  cls_loss: 0.0303
+epoch:37/100 - Train Loss: 1.1408, Val Loss: 6.5829
+<<<iteration:[20/117] - total_loss: 1.3817  obj_loss: 0.1540  noobj_loss: 0.1963  bbox_loss: 0.2206  cls_loss: 0.0267
+<<<iteration:[40/117] - total_loss: 1.4533  obj_loss: 0.1956  noobj_loss: 0.1952  bbox_loss: 0.2278  cls_loss: 0.0212
+<<<iteration:[60/117] - total_loss: 1.1905  obj_loss: 0.1675  noobj_loss: 0.1918  bbox_loss: 0.1796  cls_loss: 0.0294
+<<<iteration:[80/117] - total_loss: 1.1381  obj_loss: 0.1604  noobj_loss: 0.2003  bbox_loss: 0.1711  cls_loss: 0.0220
+<<<iteration:[100/117] - total_loss: 1.2296  obj_loss: 0.1446  noobj_loss: 0.2022  bbox_loss: 0.1904  cls_loss: 0.0318
+epoch:38/100 - Train Loss: 1.2367, Val Loss: 6.1907
+<<<iteration:[20/117] - total_loss: 1.0579  obj_loss: 0.1471  noobj_loss: 0.1881  bbox_loss: 0.1596  cls_loss: 0.0189
+<<<iteration:[40/117] - total_loss: 1.3691  obj_loss: 0.1082  noobj_loss: 0.1940  bbox_loss: 0.2271  cls_loss: 0.0281
+<<<iteration:[60/117] - total_loss: 1.2917  obj_loss: 0.1204  noobj_loss: 0.1963  bbox_loss: 0.2094  cls_loss: 0.0260
+<<<iteration:[80/117] - total_loss: 0.9130  obj_loss: 0.1447  noobj_loss: 0.2101  bbox_loss: 0.1273  cls_loss: 0.0266
+<<<iteration:[100/117] - total_loss: 1.4316  obj_loss: 0.1403  noobj_loss: 0.1875  bbox_loss: 0.2327  cls_loss: 0.0339
+epoch:39/100 - Train Loss: 1.1788, Val Loss: 5.7718
+<<<iteration:[20/117] - total_loss: 1.0196  obj_loss: 0.1972  noobj_loss: 0.1988  bbox_loss: 0.1392  cls_loss: 0.0268
+<<<iteration:[40/117] - total_loss: 1.3537  obj_loss: 0.2279  noobj_loss: 0.2026  bbox_loss: 0.2018  cls_loss: 0.0153
+<<<iteration:[60/117] - total_loss: 0.9930  obj_loss: 0.1561  noobj_loss: 0.2041  bbox_loss: 0.1433  cls_loss: 0.0183
+<<<iteration:[80/117] - total_loss: 1.0406  obj_loss: 0.1848  noobj_loss: 0.1908  bbox_loss: 0.1478  cls_loss: 0.0212
+<<<iteration:[100/117] - total_loss: 1.1567  obj_loss: 0.1258  noobj_loss: 0.1898  bbox_loss: 0.1826  cls_loss: 0.0229
+epoch:40/100 - Train Loss: 1.1265, Val Loss: 5.7939
+<<<iteration:[20/117] - total_loss: 0.9543  obj_loss: 0.1968  noobj_loss: 0.1895  bbox_loss: 0.1292  cls_loss: 0.0165
+<<<iteration:[40/117] - total_loss: 1.1528  obj_loss: 0.1654  noobj_loss: 0.1794  bbox_loss: 0.1766  cls_loss: 0.0146
+<<<iteration:[60/117] - total_loss: 1.2542  obj_loss: 0.2105  noobj_loss: 0.1764  bbox_loss: 0.1865  cls_loss: 0.0230
+<<<iteration:[80/117] - total_loss: 1.1627  obj_loss: 0.1261  noobj_loss: 0.1902  bbox_loss: 0.1841  cls_loss: 0.0208
+<<<iteration:[100/117] - total_loss: 0.9101  obj_loss: 0.2172  noobj_loss: 0.1903  bbox_loss: 0.1151  cls_loss: 0.0222
+epoch:41/100 - Train Loss: 1.0623, Val Loss: 5.8751
+<<<iteration:[20/117] - total_loss: 1.0025  obj_loss: 0.2745  noobj_loss: 0.2165  bbox_loss: 0.1210  cls_loss: 0.0149
+<<<iteration:[40/117] - total_loss: 0.9089  obj_loss: 0.1725  noobj_loss: 0.1822  bbox_loss: 0.1253  cls_loss: 0.0187
+<<<iteration:[60/117] - total_loss: 1.3419  obj_loss: 0.1401  noobj_loss: 0.1882  bbox_loss: 0.2162  cls_loss: 0.0267
+<<<iteration:[80/117] - total_loss: 0.9286  obj_loss: 0.1956  noobj_loss: 0.1787  bbox_loss: 0.1251  cls_loss: 0.0179
+<<<iteration:[100/117] - total_loss: 1.1888  obj_loss: 0.0884  noobj_loss: 0.1827  bbox_loss: 0.1993  cls_loss: 0.0128
+epoch:42/100 - Train Loss: 1.1997, Val Loss: 6.8975
+<<<iteration:[20/117] - total_loss: 0.8454  obj_loss: 0.1172  noobj_loss: 0.1846  bbox_loss: 0.1233  cls_loss: 0.0192
+<<<iteration:[40/117] - total_loss: 1.8215  obj_loss: 0.1889  noobj_loss: 0.1836  bbox_loss: 0.3030  cls_loss: 0.0259
+<<<iteration:[60/117] - total_loss: 1.4982  obj_loss: 0.0718  noobj_loss: 0.1840  bbox_loss: 0.2600  cls_loss: 0.0341
+<<<iteration:[80/117] - total_loss: 0.9355  obj_loss: 0.1555  noobj_loss: 0.1876  bbox_loss: 0.1325  cls_loss: 0.0240
+<<<iteration:[100/117] - total_loss: 1.1103  obj_loss: 0.0981  noobj_loss: 0.1676  bbox_loss: 0.1806  cls_loss: 0.0255
+epoch:43/100 - Train Loss: 1.2238, Val Loss: 5.8502
+<<<iteration:[20/117] - total_loss: 1.2081  obj_loss: 0.1625  noobj_loss: 0.1772  bbox_loss: 0.1870  cls_loss: 0.0222
+<<<iteration:[40/117] - total_loss: 1.0516  obj_loss: 0.1072  noobj_loss: 0.1700  bbox_loss: 0.1685  cls_loss: 0.0167
+<<<iteration:[60/117] - total_loss: 1.1056  obj_loss: 0.1355  noobj_loss: 0.1680  bbox_loss: 0.1721  cls_loss: 0.0253
+<<<iteration:[80/117] - total_loss: 0.8987  obj_loss: 0.1702  noobj_loss: 0.1831  bbox_loss: 0.1230  cls_loss: 0.0219
+<<<iteration:[100/117] - total_loss: 0.8916  obj_loss: 0.1894  noobj_loss: 0.1762  bbox_loss: 0.1189  cls_loss: 0.0197
+epoch:44/100 - Train Loss: 1.0261, Val Loss: 5.7817
+<<<iteration:[20/117] - total_loss: 1.0658  obj_loss: 0.1911  noobj_loss: 0.1909  bbox_loss: 0.1522  cls_loss: 0.0182
+<<<iteration:[40/117] - total_loss: 1.1037  obj_loss: 0.1246  noobj_loss: 0.1786  bbox_loss: 0.1743  cls_loss: 0.0181
+<<<iteration:[60/117] - total_loss: 1.1357  obj_loss: 0.1356  noobj_loss: 0.1715  bbox_loss: 0.1786  cls_loss: 0.0213
+<<<iteration:[80/117] - total_loss: 0.9661  obj_loss: 0.1272  noobj_loss: 0.1742  bbox_loss: 0.1478  cls_loss: 0.0126
+<<<iteration:[100/117] - total_loss: 0.8610  obj_loss: 0.1582  noobj_loss: 0.1632  bbox_loss: 0.1206  cls_loss: 0.0181
+epoch:45/100 - Train Loss: 1.0254, Val Loss: 6.2361
+<<<iteration:[20/117] - total_loss: 1.0687  obj_loss: 0.1798  noobj_loss: 0.1751  bbox_loss: 0.1567  cls_loss: 0.0178
+<<<iteration:[40/117] - total_loss: 1.1475  obj_loss: 0.1683  noobj_loss: 0.1858  bbox_loss: 0.1740  cls_loss: 0.0163
+<<<iteration:[60/117] - total_loss: 1.0325  obj_loss: 0.1412  noobj_loss: 0.1652  bbox_loss: 0.1577  cls_loss: 0.0200
+<<<iteration:[80/117] - total_loss: 1.0538  obj_loss: 0.0720  noobj_loss: 0.1706  bbox_loss: 0.1759  cls_loss: 0.0169
+<<<iteration:[100/117] - total_loss: 0.9332  obj_loss: 0.1573  noobj_loss: 0.1666  bbox_loss: 0.1358  cls_loss: 0.0138
+epoch:46/100 - Train Loss: 1.0401, Val Loss: 5.8249
+<<<iteration:[20/117] - total_loss: 0.9541  obj_loss: 0.1429  noobj_loss: 0.1709  bbox_loss: 0.1429  cls_loss: 0.0111
+<<<iteration:[40/117] - total_loss: 1.0799  obj_loss: 0.1363  noobj_loss: 0.1630  bbox_loss: 0.1701  cls_loss: 0.0113
+<<<iteration:[60/117] - total_loss: 1.1622  obj_loss: 0.1785  noobj_loss: 0.1670  bbox_loss: 0.1752  cls_loss: 0.0242
+<<<iteration:[80/117] - total_loss: 0.9707  obj_loss: 0.1233  noobj_loss: 0.1591  bbox_loss: 0.1505  cls_loss: 0.0153
+<<<iteration:[100/117] - total_loss: 0.8153  obj_loss: 0.1099  noobj_loss: 0.1675  bbox_loss: 0.1215  cls_loss: 0.0142
+epoch:47/100 - Train Loss: 1.0119, Val Loss: 5.7809
+<<<iteration:[20/117] - total_loss: 1.2106  obj_loss: 0.2501  noobj_loss: 0.1878  bbox_loss: 0.1700  cls_loss: 0.0167
+<<<iteration:[40/117] - total_loss: 0.9846  obj_loss: 0.1366  noobj_loss: 0.1713  bbox_loss: 0.1496  cls_loss: 0.0143
+<<<iteration:[60/117] - total_loss: 1.2735  obj_loss: 0.1588  noobj_loss: 0.1739  bbox_loss: 0.2031  cls_loss: 0.0123
+<<<iteration:[80/117] - total_loss: 0.7730  obj_loss: 0.0958  noobj_loss: 0.1608  bbox_loss: 0.1161  cls_loss: 0.0164
+<<<iteration:[100/117] - total_loss: 0.8769  obj_loss: 0.1624  noobj_loss: 0.1697  bbox_loss: 0.1223  cls_loss: 0.0179
+epoch:48/100 - Train Loss: 1.0040, Val Loss: 5.8554
+<<<iteration:[20/117] - total_loss: 1.2097  obj_loss: 0.1214  noobj_loss: 0.1635  bbox_loss: 0.1974  cls_loss: 0.0198
+<<<iteration:[40/117] - total_loss: 0.9501  obj_loss: 0.1912  noobj_loss: 0.1537  bbox_loss: 0.1341  cls_loss: 0.0117
+<<<iteration:[60/117] - total_loss: 1.0820  obj_loss: 0.1489  noobj_loss: 0.1672  bbox_loss: 0.1663  cls_loss: 0.0179
+<<<iteration:[80/117] - total_loss: 0.9870  obj_loss: 0.1747  noobj_loss: 0.1826  bbox_loss: 0.1416  cls_loss: 0.0133
+<<<iteration:[100/117] - total_loss: 1.1962  obj_loss: 0.1553  noobj_loss: 0.1591  bbox_loss: 0.1894  cls_loss: 0.0145
+epoch:49/100 - Train Loss: 1.0517, Val Loss: 5.8363
+<<<iteration:[20/117] - total_loss: 0.8625  obj_loss: 0.1572  noobj_loss: 0.1574  bbox_loss: 0.1226  cls_loss: 0.0134
+<<<iteration:[40/117] - total_loss: 1.3172  obj_loss: 0.1204  noobj_loss: 0.1573  bbox_loss: 0.2208  cls_loss: 0.0141
+<<<iteration:[60/117] - total_loss: 1.0798  obj_loss: 0.1557  noobj_loss: 0.1556  bbox_loss: 0.1666  cls_loss: 0.0132
+<<<iteration:[80/117] - total_loss: 0.7459  obj_loss: 0.1852  noobj_loss: 0.1710  bbox_loss: 0.0928  cls_loss: 0.0111
+<<<iteration:[100/117] - total_loss: 1.0534  obj_loss: 0.1952  noobj_loss: 0.1675  bbox_loss: 0.1516  cls_loss: 0.0166
+epoch:50/100 - Train Loss: 0.9663, Val Loss: 6.1123
+<<<iteration:[20/117] - total_loss: 0.9252  obj_loss: 0.1337  noobj_loss: 0.1601  bbox_loss: 0.1392  cls_loss: 0.0155
+<<<iteration:[40/117] - total_loss: 0.7193  obj_loss: 0.2246  noobj_loss: 0.1633  bbox_loss: 0.0807  cls_loss: 0.0097
+<<<iteration:[60/117] - total_loss: 0.8125  obj_loss: 0.2129  noobj_loss: 0.1732  bbox_loss: 0.1007  cls_loss: 0.0096
+<<<iteration:[80/117] - total_loss: 1.1850  obj_loss: 0.1135  noobj_loss: 0.1698  bbox_loss: 0.1939  cls_loss: 0.0173
+<<<iteration:[100/117] - total_loss: 1.4493  obj_loss: 0.1164  noobj_loss: 0.1668  bbox_loss: 0.2475  cls_loss: 0.0118
+epoch:51/100 - Train Loss: 1.0428, Val Loss: 5.7554
+<<<iteration:[20/117] - total_loss: 0.8622  obj_loss: 0.1916  noobj_loss: 0.1549  bbox_loss: 0.1159  cls_loss: 0.0135
+<<<iteration:[40/117] - total_loss: 0.9985  obj_loss: 0.1453  noobj_loss: 0.1542  bbox_loss: 0.1525  cls_loss: 0.0135
+<<<iteration:[60/117] - total_loss: 0.5762  obj_loss: 0.1430  noobj_loss: 0.1516  bbox_loss: 0.0694  cls_loss: 0.0107
+<<<iteration:[80/117] - total_loss: 1.0699  obj_loss: 0.1549  noobj_loss: 0.1594  bbox_loss: 0.1645  cls_loss: 0.0129
+<<<iteration:[100/117] - total_loss: 0.7926  obj_loss: 0.1676  noobj_loss: 0.1624  bbox_loss: 0.1070  cls_loss: 0.0088
+epoch:52/100 - Train Loss: 0.8943, Val Loss: 5.6984
+<<<iteration:[20/117] - total_loss: 0.8235  obj_loss: 0.1868  noobj_loss: 0.1559  bbox_loss: 0.1093  cls_loss: 0.0121
+<<<iteration:[40/117] - total_loss: 0.9962  obj_loss: 0.1354  noobj_loss: 0.1508  bbox_loss: 0.1552  cls_loss: 0.0096
+<<<iteration:[60/117] - total_loss: 1.1140  obj_loss: 0.1799  noobj_loss: 0.1694  bbox_loss: 0.1665  cls_loss: 0.0170
+<<<iteration:[80/117] - total_loss: 0.7017  obj_loss: 0.1588  noobj_loss: 0.1480  bbox_loss: 0.0920  cls_loss: 0.0090
+<<<iteration:[100/117] - total_loss: 0.7348  obj_loss: 0.1637  noobj_loss: 0.1565  bbox_loss: 0.0965  cls_loss: 0.0105
+epoch:53/100 - Train Loss: 0.8383, Val Loss: 5.9373
+<<<iteration:[20/117] - total_loss: 0.6470  obj_loss: 0.1663  noobj_loss: 0.1673  bbox_loss: 0.0773  cls_loss: 0.0106
+<<<iteration:[40/117] - total_loss: 0.7635  obj_loss: 0.1731  noobj_loss: 0.1641  bbox_loss: 0.0997  cls_loss: 0.0101
+<<<iteration:[60/117] - total_loss: 0.8246  obj_loss: 0.1869  noobj_loss: 0.1643  bbox_loss: 0.1087  cls_loss: 0.0118
+<<<iteration:[80/117] - total_loss: 0.8756  obj_loss: 0.1708  noobj_loss: 0.1603  bbox_loss: 0.1226  cls_loss: 0.0117
+<<<iteration:[100/117] - total_loss: 0.8024  obj_loss: 0.2031  noobj_loss: 0.1849  bbox_loss: 0.0997  cls_loss: 0.0083
+epoch:54/100 - Train Loss: 0.7622, Val Loss: 5.8462
+<<<iteration:[20/117] - total_loss: 0.7178  obj_loss: 0.2451  noobj_loss: 0.1781  bbox_loss: 0.0757  cls_loss: 0.0051
+<<<iteration:[40/117] - total_loss: 0.8988  obj_loss: 0.1868  noobj_loss: 0.1710  bbox_loss: 0.1240  cls_loss: 0.0065
+<<<iteration:[60/117] - total_loss: 0.9238  obj_loss: 0.2012  noobj_loss: 0.1731  bbox_loss: 0.1248  cls_loss: 0.0121
+<<<iteration:[80/117] - total_loss: 0.6691  obj_loss: 0.2162  noobj_loss: 0.1646  bbox_loss: 0.0716  cls_loss: 0.0128
+<<<iteration:[100/117] - total_loss: 0.6890  obj_loss: 0.1884  noobj_loss: 0.1701  bbox_loss: 0.0810  cls_loss: 0.0105
+epoch:55/100 - Train Loss: 0.8068, Val Loss: 5.8699
+<<<iteration:[20/117] - total_loss: 0.6558  obj_loss: 0.2394  noobj_loss: 0.1862  bbox_loss: 0.0633  cls_loss: 0.0068
+<<<iteration:[40/117] - total_loss: 0.9049  obj_loss: 0.1255  noobj_loss: 0.1675  bbox_loss: 0.1371  cls_loss: 0.0102
+<<<iteration:[60/117] - total_loss: 0.9658  obj_loss: 0.1513  noobj_loss: 0.1409  bbox_loss: 0.1472  cls_loss: 0.0080
+<<<iteration:[80/117] - total_loss: 0.7430  obj_loss: 0.1607  noobj_loss: 0.1524  bbox_loss: 0.0995  cls_loss: 0.0088
+<<<iteration:[100/117] - total_loss: 0.8927  obj_loss: 0.1235  noobj_loss: 0.1405  bbox_loss: 0.1376  cls_loss: 0.0111
+epoch:56/100 - Train Loss: 0.8252, Val Loss: 6.2012
+<<<iteration:[20/117] - total_loss: 0.7464  obj_loss: 0.2068  noobj_loss: 0.1532  bbox_loss: 0.0909  cls_loss: 0.0086
+<<<iteration:[40/117] - total_loss: 0.7254  obj_loss: 0.1567  noobj_loss: 0.1543  bbox_loss: 0.0972  cls_loss: 0.0056
+<<<iteration:[60/117] - total_loss: 0.7393  obj_loss: 0.1497  noobj_loss: 0.1485  bbox_loss: 0.1007  cls_loss: 0.0116
+<<<iteration:[80/117] - total_loss: 0.9291  obj_loss: 0.2191  noobj_loss: 0.1557  bbox_loss: 0.1249  cls_loss: 0.0075
+<<<iteration:[100/117] - total_loss: 0.7934  obj_loss: 0.2599  noobj_loss: 0.1813  bbox_loss: 0.0863  cls_loss: 0.0113
+epoch:57/100 - Train Loss: 0.8170, Val Loss: 5.9929
+<<<iteration:[20/117] - total_loss: 0.8825  obj_loss: 0.1993  noobj_loss: 0.1547  bbox_loss: 0.1197  cls_loss: 0.0076
+<<<iteration:[40/117] - total_loss: 0.6544  obj_loss: 0.1982  noobj_loss: 0.1642  bbox_loss: 0.0732  cls_loss: 0.0079
+<<<iteration:[60/117] - total_loss: 0.8291  obj_loss: 0.1425  noobj_loss: 0.1530  bbox_loss: 0.1209  cls_loss: 0.0057
+<<<iteration:[80/117] - total_loss: 0.6360  obj_loss: 0.1422  noobj_loss: 0.1547  bbox_loss: 0.0816  cls_loss: 0.0082
+<<<iteration:[100/117] - total_loss: 0.5831  obj_loss: 0.1355  noobj_loss: 0.1575  bbox_loss: 0.0719  cls_loss: 0.0094
+epoch:58/100 - Train Loss: 0.7327, Val Loss: 5.3976
+<<<iteration:[20/117] - total_loss: 0.8898  obj_loss: 0.2309  noobj_loss: 0.1620  bbox_loss: 0.1144  cls_loss: 0.0060
+<<<iteration:[40/117] - total_loss: 0.7446  obj_loss: 0.1983  noobj_loss: 0.1607  bbox_loss: 0.0911  cls_loss: 0.0106
+<<<iteration:[60/117] - total_loss: 0.6626  obj_loss: 0.1266  noobj_loss: 0.1358  bbox_loss: 0.0923  cls_loss: 0.0068
+<<<iteration:[80/117] - total_loss: 0.5453  obj_loss: 0.2489  noobj_loss: 0.1612  bbox_loss: 0.0416  cls_loss: 0.0076
+<<<iteration:[100/117] - total_loss: 0.6856  obj_loss: 0.2210  noobj_loss: 0.1688  bbox_loss: 0.0749  cls_loss: 0.0057
+epoch:59/100 - Train Loss: 0.7167, Val Loss: 5.6801
+<<<iteration:[20/117] - total_loss: 1.0778  obj_loss: 0.1696  noobj_loss: 0.1748  bbox_loss: 0.1625  cls_loss: 0.0085
+<<<iteration:[40/117] - total_loss: 0.8252  obj_loss: 0.1778  noobj_loss: 0.1629  bbox_loss: 0.1122  cls_loss: 0.0050
+<<<iteration:[60/117] - total_loss: 0.7857  obj_loss: 0.2217  noobj_loss: 0.1643  bbox_loss: 0.0936  cls_loss: 0.0138
+<<<iteration:[80/117] - total_loss: 0.7224  obj_loss: 0.1349  noobj_loss: 0.1457  bbox_loss: 0.1016  cls_loss: 0.0067
+<<<iteration:[100/117] - total_loss: 0.6678  obj_loss: 0.1638  noobj_loss: 0.1495  bbox_loss: 0.0846  cls_loss: 0.0065
+epoch:60/100 - Train Loss: 0.7814, Val Loss: 5.7374
+<<<iteration:[20/117] - total_loss: 0.7133  obj_loss: 0.2641  noobj_loss: 0.1568  bbox_loss: 0.0734  cls_loss: 0.0039
+<<<iteration:[40/117] - total_loss: 0.7690  obj_loss: 0.2192  noobj_loss: 0.1654  bbox_loss: 0.0915  cls_loss: 0.0095
+<<<iteration:[60/117] - total_loss: 0.7708  obj_loss: 0.1614  noobj_loss: 0.1581  bbox_loss: 0.1050  cls_loss: 0.0054
+<<<iteration:[80/117] - total_loss: 0.8784  obj_loss: 0.2094  noobj_loss: 0.1718  bbox_loss: 0.1158  cls_loss: 0.0042
+<<<iteration:[100/117] - total_loss: 1.0200  obj_loss: 0.2418  noobj_loss: 0.1836  bbox_loss: 0.1357  cls_loss: 0.0081
+epoch:61/100 - Train Loss: 0.8836, Val Loss: 5.5890
+<<<iteration:[20/117] - total_loss: 0.7312  obj_loss: 0.1563  noobj_loss: 0.1483  bbox_loss: 0.0985  cls_loss: 0.0083
+<<<iteration:[40/117] - total_loss: 0.5718  obj_loss: 0.1277  noobj_loss: 0.1298  bbox_loss: 0.0745  cls_loss: 0.0066
+<<<iteration:[60/117] - total_loss: 0.6031  obj_loss: 0.2332  noobj_loss: 0.1464  bbox_loss: 0.0581  cls_loss: 0.0063
+<<<iteration:[80/117] - total_loss: 0.8778  obj_loss: 0.1877  noobj_loss: 0.1522  bbox_loss: 0.1207  cls_loss: 0.0107
+<<<iteration:[100/117] - total_loss: 0.7534  obj_loss: 0.1672  noobj_loss: 0.1552  bbox_loss: 0.1002  cls_loss: 0.0078
+epoch:62/100 - Train Loss: 0.7356, Val Loss: 5.9147
+<<<iteration:[20/117] - total_loss: 0.9617  obj_loss: 0.1621  noobj_loss: 0.1279  bbox_loss: 0.1455  cls_loss: 0.0079
+<<<iteration:[40/117] - total_loss: 0.9035  obj_loss: 0.1161  noobj_loss: 0.1336  bbox_loss: 0.1427  cls_loss: 0.0073
+<<<iteration:[60/117] - total_loss: 0.4673  obj_loss: 0.1328  noobj_loss: 0.1284  bbox_loss: 0.0526  cls_loss: 0.0076
+<<<iteration:[80/117] - total_loss: 0.5799  obj_loss: 0.1116  noobj_loss: 0.1358  bbox_loss: 0.0783  cls_loss: 0.0090
+<<<iteration:[100/117] - total_loss: 0.5606  obj_loss: 0.2121  noobj_loss: 0.1511  bbox_loss: 0.0536  cls_loss: 0.0052
+epoch:63/100 - Train Loss: 0.6796, Val Loss: 5.5123
+<<<iteration:[20/117] - total_loss: 0.7354  obj_loss: 0.2151  noobj_loss: 0.1696  bbox_loss: 0.0858  cls_loss: 0.0064
+<<<iteration:[40/117] - total_loss: 0.4963  obj_loss: 0.1480  noobj_loss: 0.1504  bbox_loss: 0.0541  cls_loss: 0.0024
+<<<iteration:[60/117] - total_loss: 0.7263  obj_loss: 0.1580  noobj_loss: 0.1396  bbox_loss: 0.0983  cls_loss: 0.0070
+<<<iteration:[80/117] - total_loss: 0.7260  obj_loss: 0.1826  noobj_loss: 0.1435  bbox_loss: 0.0924  cls_loss: 0.0098
+<<<iteration:[100/117] - total_loss: 0.7226  obj_loss: 0.1338  noobj_loss: 0.1438  bbox_loss: 0.1025  cls_loss: 0.0042
+epoch:64/100 - Train Loss: 0.6918, Val Loss: 5.7459
+<<<iteration:[20/117] - total_loss: 0.9785  obj_loss: 0.2256  noobj_loss: 0.1630  bbox_loss: 0.1328  cls_loss: 0.0072
+<<<iteration:[40/117] - total_loss: 0.6957  obj_loss: 0.1606  noobj_loss: 0.1399  bbox_loss: 0.0919  cls_loss: 0.0055
+<<<iteration:[60/117] - total_loss: 0.7937  obj_loss: 0.1567  noobj_loss: 0.1550  bbox_loss: 0.1107  cls_loss: 0.0060
+<<<iteration:[80/117] - total_loss: 0.5937  obj_loss: 0.0637  noobj_loss: 0.1400  bbox_loss: 0.0911  cls_loss: 0.0043
+<<<iteration:[100/117] - total_loss: 0.4494  obj_loss: 0.1586  noobj_loss: 0.1185  bbox_loss: 0.0447  cls_loss: 0.0082
+epoch:65/100 - Train Loss: 0.7065, Val Loss: 5.5479
+<<<iteration:[20/117] - total_loss: 0.8439  obj_loss: 0.2465  noobj_loss: 0.1553  bbox_loss: 0.1022  cls_loss: 0.0088
+<<<iteration:[40/117] - total_loss: 0.6004  obj_loss: 0.2118  noobj_loss: 0.1660  bbox_loss: 0.0605  cls_loss: 0.0032
+<<<iteration:[60/117] - total_loss: 0.5831  obj_loss: 0.1696  noobj_loss: 0.1616  bbox_loss: 0.0656  cls_loss: 0.0045
+<<<iteration:[80/117] - total_loss: 0.7943  obj_loss: 0.1780  noobj_loss: 0.1359  bbox_loss: 0.1086  cls_loss: 0.0055
+<<<iteration:[100/117] - total_loss: 0.5620  obj_loss: 0.1841  noobj_loss: 0.1478  bbox_loss: 0.0596  cls_loss: 0.0058
+epoch:66/100 - Train Loss: 0.6600, Val Loss: 5.8715
+<<<iteration:[20/117] - total_loss: 0.6299  obj_loss: 0.1834  noobj_loss: 0.1368  bbox_loss: 0.0749  cls_loss: 0.0036
+<<<iteration:[40/117] - total_loss: 0.5577  obj_loss: 0.2215  noobj_loss: 0.1678  bbox_loss: 0.0486  cls_loss: 0.0093
+<<<iteration:[60/117] - total_loss: 0.6734  obj_loss: 0.2060  noobj_loss: 0.1622  bbox_loss: 0.0760  cls_loss: 0.0063
+<<<iteration:[80/117] - total_loss: 0.6057  obj_loss: 0.2005  noobj_loss: 0.1748  bbox_loss: 0.0628  cls_loss: 0.0038
+<<<iteration:[100/117] - total_loss: 0.7369  obj_loss: 0.1484  noobj_loss: 0.1468  bbox_loss: 0.1022  cls_loss: 0.0040
+epoch:67/100 - Train Loss: 0.6478, Val Loss: 5.5275
+<<<iteration:[20/117] - total_loss: 0.6057  obj_loss: 0.1463  noobj_loss: 0.1157  bbox_loss: 0.0794  cls_loss: 0.0046
+<<<iteration:[40/117] - total_loss: 0.7477  obj_loss: 0.1240  noobj_loss: 0.1210  bbox_loss: 0.1115  cls_loss: 0.0057
+<<<iteration:[60/117] - total_loss: 0.8798  obj_loss: 0.1286  noobj_loss: 0.1346  bbox_loss: 0.1360  cls_loss: 0.0037
+<<<iteration:[80/117] - total_loss: 0.5855  obj_loss: 0.1580  noobj_loss: 0.1353  bbox_loss: 0.0706  cls_loss: 0.0070
+<<<iteration:[100/117] - total_loss: 0.6372  obj_loss: 0.1884  noobj_loss: 0.1421  bbox_loss: 0.0745  cls_loss: 0.0052
+epoch:68/100 - Train Loss: 0.6654, Val Loss: 5.7229
+<<<iteration:[20/117] - total_loss: 0.7927  obj_loss: 0.1773  noobj_loss: 0.1392  bbox_loss: 0.1081  cls_loss: 0.0054
+<<<iteration:[40/117] - total_loss: 0.6427  obj_loss: 0.1885  noobj_loss: 0.1322  bbox_loss: 0.0771  cls_loss: 0.0028
+<<<iteration:[60/117] - total_loss: 0.8522  obj_loss: 0.1652  noobj_loss: 0.1372  bbox_loss: 0.1226  cls_loss: 0.0055
+<<<iteration:[80/117] - total_loss: 0.5124  obj_loss: 0.1357  noobj_loss: 0.1262  bbox_loss: 0.0618  cls_loss: 0.0047
+<<<iteration:[100/117] - total_loss: 0.7668  obj_loss: 0.1516  noobj_loss: 0.1407  bbox_loss: 0.1079  cls_loss: 0.0054
+epoch:69/100 - Train Loss: 0.6924, Val Loss: 5.3697
+<<<iteration:[20/117] - total_loss: 0.7172  obj_loss: 0.1873  noobj_loss: 0.1475  bbox_loss: 0.0897  cls_loss: 0.0077
+<<<iteration:[40/117] - total_loss: 0.5352  obj_loss: 0.1757  noobj_loss: 0.1464  bbox_loss: 0.0565  cls_loss: 0.0036
+<<<iteration:[60/117] - total_loss: 0.5949  obj_loss: 0.1442  noobj_loss: 0.1469  bbox_loss: 0.0747  cls_loss: 0.0036
+<<<iteration:[80/117] - total_loss: 0.6180  obj_loss: 0.2262  noobj_loss: 0.1557  bbox_loss: 0.0622  cls_loss: 0.0029
+<<<iteration:[100/117] - total_loss: 0.5654  obj_loss: 0.2059  noobj_loss: 0.1512  bbox_loss: 0.0561  cls_loss: 0.0031
+epoch:70/100 - Train Loss: 0.6305, Val Loss: 5.3747
+<<<iteration:[20/117] - total_loss: 0.5819  obj_loss: 0.2486  noobj_loss: 0.1703  bbox_loss: 0.0490  cls_loss: 0.0034
+<<<iteration:[40/117] - total_loss: 0.5208  obj_loss: 0.1559  noobj_loss: 0.1366  bbox_loss: 0.0589  cls_loss: 0.0023
+<<<iteration:[60/117] - total_loss: 0.6129  obj_loss: 0.2485  noobj_loss: 0.1612  bbox_loss: 0.0558  cls_loss: 0.0049
+<<<iteration:[80/117] - total_loss: 0.5517  obj_loss: 0.2022  noobj_loss: 0.1544  bbox_loss: 0.0534  cls_loss: 0.0053
+<<<iteration:[100/117] - total_loss: 0.6041  obj_loss: 0.1678  noobj_loss: 0.1515  bbox_loss: 0.0714  cls_loss: 0.0034
+epoch:71/100 - Train Loss: 0.6018, Val Loss: 5.3248
+<<<iteration:[20/117] - total_loss: 0.7832  obj_loss: 0.1966  noobj_loss: 0.1476  bbox_loss: 0.1012  cls_loss: 0.0066
+<<<iteration:[40/117] - total_loss: 0.7788  obj_loss: 0.1209  noobj_loss: 0.1192  bbox_loss: 0.1188  cls_loss: 0.0044
+<<<iteration:[60/117] - total_loss: 0.4351  obj_loss: 0.1413  noobj_loss: 0.1199  bbox_loss: 0.0462  cls_loss: 0.0027
+<<<iteration:[80/117] - total_loss: 0.7492  obj_loss: 0.1633  noobj_loss: 0.1242  bbox_loss: 0.1040  cls_loss: 0.0038
+<<<iteration:[100/117] - total_loss: 0.5136  obj_loss: 0.2335  noobj_loss: 0.1311  bbox_loss: 0.0421  cls_loss: 0.0042
+epoch:72/100 - Train Loss: 0.6498, Val Loss: 5.4441
+<<<iteration:[20/117] - total_loss: 0.6192  obj_loss: 0.1515  noobj_loss: 0.1402  bbox_loss: 0.0787  cls_loss: 0.0044
+<<<iteration:[40/117] - total_loss: 0.5671  obj_loss: 0.2183  noobj_loss: 0.1440  bbox_loss: 0.0545  cls_loss: 0.0044
+<<<iteration:[60/117] - total_loss: 0.5366  obj_loss: 0.1770  noobj_loss: 0.1536  bbox_loss: 0.0556  cls_loss: 0.0050
+<<<iteration:[80/117] - total_loss: 0.7088  obj_loss: 0.1097  noobj_loss: 0.1290  bbox_loss: 0.1064  cls_loss: 0.0026
+<<<iteration:[100/117] - total_loss: 0.5060  obj_loss: 0.1585  noobj_loss: 0.1376  bbox_loss: 0.0550  cls_loss: 0.0037
+epoch:73/100 - Train Loss: 0.5741, Val Loss: 5.7857
+<<<iteration:[20/117] - total_loss: 0.6080  obj_loss: 0.1993  noobj_loss: 0.1612  bbox_loss: 0.0649  cls_loss: 0.0038
+<<<iteration:[40/117] - total_loss: 0.5084  obj_loss: 0.1789  noobj_loss: 0.1327  bbox_loss: 0.0520  cls_loss: 0.0029
+<<<iteration:[60/117] - total_loss: 0.7924  obj_loss: 0.1543  noobj_loss: 0.1272  bbox_loss: 0.1141  cls_loss: 0.0042
+<<<iteration:[80/117] - total_loss: 0.5581  obj_loss: 0.1984  noobj_loss: 0.1336  bbox_loss: 0.0577  cls_loss: 0.0045
+<<<iteration:[100/117] - total_loss: 0.6256  obj_loss: 0.1563  noobj_loss: 0.1341  bbox_loss: 0.0798  cls_loss: 0.0031
+epoch:74/100 - Train Loss: 0.6033, Val Loss: 5.6728
+<<<iteration:[20/117] - total_loss: 0.5490  obj_loss: 0.2157  noobj_loss: 0.1457  bbox_loss: 0.0515  cls_loss: 0.0028
+<<<iteration:[40/117] - total_loss: 0.6925  obj_loss: 0.2635  noobj_loss: 0.1641  bbox_loss: 0.0685  cls_loss: 0.0046
+<<<iteration:[60/117] - total_loss: 0.6107  obj_loss: 0.2054  noobj_loss: 0.1719  bbox_loss: 0.0633  cls_loss: 0.0027
+<<<iteration:[80/117] - total_loss: 0.4834  obj_loss: 0.2402  noobj_loss: 0.1419  bbox_loss: 0.0339  cls_loss: 0.0026
+<<<iteration:[100/117] - total_loss: 0.6908  obj_loss: 0.1951  noobj_loss: 0.1682  bbox_loss: 0.0817  cls_loss: 0.0029
+epoch:75/100 - Train Loss: 0.6036, Val Loss: 5.5542
+<<<iteration:[20/117] - total_loss: 0.4676  obj_loss: 0.1735  noobj_loss: 0.1456  bbox_loss: 0.0439  cls_loss: 0.0020
+<<<iteration:[40/117] - total_loss: 0.5057  obj_loss: 0.2116  noobj_loss: 0.1424  bbox_loss: 0.0441  cls_loss: 0.0022
+<<<iteration:[60/117] - total_loss: 0.5863  obj_loss: 0.2167  noobj_loss: 0.1564  bbox_loss: 0.0574  cls_loss: 0.0044
+<<<iteration:[80/117] - total_loss: 0.5756  obj_loss: 0.1611  noobj_loss: 0.1386  bbox_loss: 0.0685  cls_loss: 0.0027
+<<<iteration:[100/117] - total_loss: 0.6822  obj_loss: 0.1850  noobj_loss: 0.1387  bbox_loss: 0.0850  cls_loss: 0.0030
+epoch:76/100 - Train Loss: 0.5701, Val Loss: 5.5532
+<<<iteration:[20/117] - total_loss: 0.5630  obj_loss: 0.2065  noobj_loss: 0.1529  bbox_loss: 0.0553  cls_loss: 0.0033
+<<<iteration:[40/117] - total_loss: 0.5807  obj_loss: 0.1241  noobj_loss: 0.1400  bbox_loss: 0.0768  cls_loss: 0.0028
+<<<iteration:[60/117] - total_loss: 0.4825  obj_loss: 0.1600  noobj_loss: 0.1147  bbox_loss: 0.0525  cls_loss: 0.0025
+<<<iteration:[80/117] - total_loss: 0.5673  obj_loss: 0.2191  noobj_loss: 0.1523  bbox_loss: 0.0533  cls_loss: 0.0054
+<<<iteration:[100/117] - total_loss: 0.7660  obj_loss: 0.1953  noobj_loss: 0.1511  bbox_loss: 0.0984  cls_loss: 0.0032
+epoch:77/100 - Train Loss: 0.5756, Val Loss: 5.7313
+<<<iteration:[20/117] - total_loss: 0.3971  obj_loss: 0.1754  noobj_loss: 0.1346  bbox_loss: 0.0304  cls_loss: 0.0027
+<<<iteration:[40/117] - total_loss: 0.5656  obj_loss: 0.2210  noobj_loss: 0.1546  bbox_loss: 0.0528  cls_loss: 0.0032
+<<<iteration:[60/117] - total_loss: 0.6067  obj_loss: 0.2112  noobj_loss: 0.1552  bbox_loss: 0.0629  cls_loss: 0.0033
+<<<iteration:[80/117] - total_loss: 0.7467  obj_loss: 0.1367  noobj_loss: 0.1446  bbox_loss: 0.1066  cls_loss: 0.0048
+<<<iteration:[100/117] - total_loss: 0.5947  obj_loss: 0.1172  noobj_loss: 0.1273  bbox_loss: 0.0818  cls_loss: 0.0050
+epoch:78/100 - Train Loss: 0.5570, Val Loss: 5.8323
+<<<iteration:[20/117] - total_loss: 0.5363  obj_loss: 0.2077  noobj_loss: 0.1475  bbox_loss: 0.0505  cls_loss: 0.0024
+<<<iteration:[40/117] - total_loss: 0.7571  obj_loss: 0.1845  noobj_loss: 0.1433  bbox_loss: 0.0992  cls_loss: 0.0047
+<<<iteration:[60/117] - total_loss: 0.7310  obj_loss: 0.1655  noobj_loss: 0.1324  bbox_loss: 0.0992  cls_loss: 0.0030
+<<<iteration:[80/117] - total_loss: 0.4858  obj_loss: 0.1753  noobj_loss: 0.1226  bbox_loss: 0.0491  cls_loss: 0.0035
+<<<iteration:[100/117] - total_loss: 0.4521  obj_loss: 0.1766  noobj_loss: 0.1500  bbox_loss: 0.0395  cls_loss: 0.0028
+epoch:79/100 - Train Loss: 0.5766, Val Loss: 5.4432
+<<<iteration:[20/117] - total_loss: 0.5748  obj_loss: 0.2072  noobj_loss: 0.1435  bbox_loss: 0.0585  cls_loss: 0.0032
+<<<iteration:[40/117] - total_loss: 0.6032  obj_loss: 0.2672  noobj_loss: 0.1567  bbox_loss: 0.0508  cls_loss: 0.0037
+<<<iteration:[60/117] - total_loss: 0.8012  obj_loss: 0.1664  noobj_loss: 0.1581  bbox_loss: 0.1105  cls_loss: 0.0030
+<<<iteration:[80/117] - total_loss: 0.6816  obj_loss: 0.1259  noobj_loss: 0.1236  bbox_loss: 0.0983  cls_loss: 0.0025
+<<<iteration:[100/117] - total_loss: 0.4454  obj_loss: 0.1455  noobj_loss: 0.1320  bbox_loss: 0.0463  cls_loss: 0.0025
+epoch:80/100 - Train Loss: 0.6000, Val Loss: 5.4956
+<<<iteration:[20/117] - total_loss: 0.5308  obj_loss: 0.2303  noobj_loss: 0.1556  bbox_loss: 0.0439  cls_loss: 0.0030
+<<<iteration:[40/117] - total_loss: 0.4797  obj_loss: 0.1893  noobj_loss: 0.1501  bbox_loss: 0.0425  cls_loss: 0.0027
+<<<iteration:[60/117] - total_loss: 0.4869  obj_loss: 0.1022  noobj_loss: 0.1296  bbox_loss: 0.0634  cls_loss: 0.0028
+<<<iteration:[80/117] - total_loss: 0.6263  obj_loss: 0.1814  noobj_loss: 0.1253  bbox_loss: 0.0758  cls_loss: 0.0032
+<<<iteration:[100/117] - total_loss: 0.4434  obj_loss: 0.1771  noobj_loss: 0.1493  bbox_loss: 0.0380  cls_loss: 0.0018
+epoch:81/100 - Train Loss: 0.4997, Val Loss: 5.6451
+<<<iteration:[20/117] - total_loss: 0.7131  obj_loss: 0.2109  noobj_loss: 0.1314  bbox_loss: 0.0868  cls_loss: 0.0027
+<<<iteration:[40/117] - total_loss: 0.5673  obj_loss: 0.1280  noobj_loss: 0.1207  bbox_loss: 0.0753  cls_loss: 0.0023
+<<<iteration:[60/117] - total_loss: 0.5630  obj_loss: 0.1790  noobj_loss: 0.1208  bbox_loss: 0.0642  cls_loss: 0.0028
+<<<iteration:[80/117] - total_loss: 0.6753  obj_loss: 0.1190  noobj_loss: 0.1285  bbox_loss: 0.0978  cls_loss: 0.0030
+<<<iteration:[100/117] - total_loss: 0.7690  obj_loss: 0.0570  noobj_loss: 0.1167  bbox_loss: 0.1298  cls_loss: 0.0049
+epoch:82/100 - Train Loss: 0.6114, Val Loss: 5.3668
+<<<iteration:[20/117] - total_loss: 0.5361  obj_loss: 0.1664  noobj_loss: 0.1230  bbox_loss: 0.0612  cls_loss: 0.0022
+<<<iteration:[40/117] - total_loss: 0.6143  obj_loss: 0.1560  noobj_loss: 0.1213  bbox_loss: 0.0788  cls_loss: 0.0038
+<<<iteration:[60/117] - total_loss: 0.4679  obj_loss: 0.1036  noobj_loss: 0.1074  bbox_loss: 0.0616  cls_loss: 0.0028
+<<<iteration:[80/117] - total_loss: 0.6140  obj_loss: 0.1251  noobj_loss: 0.1018  bbox_loss: 0.0867  cls_loss: 0.0047
+<<<iteration:[100/117] - total_loss: 1.2259  obj_loss: 0.1128  noobj_loss: 0.1170  bbox_loss: 0.2100  cls_loss: 0.0046
+epoch:83/100 - Train Loss: 0.7145, Val Loss: 5.5195
+<<<iteration:[20/117] - total_loss: 0.7202  obj_loss: 0.1556  noobj_loss: 0.0970  bbox_loss: 0.1022  cls_loss: 0.0049
+<<<iteration:[40/117] - total_loss: 0.5132  obj_loss: 0.1039  noobj_loss: 0.0940  bbox_loss: 0.0718  cls_loss: 0.0033
+<<<iteration:[60/117] - total_loss: 0.6907  obj_loss: 0.1289  noobj_loss: 0.1152  bbox_loss: 0.0992  cls_loss: 0.0083
+<<<iteration:[80/117] - total_loss: 0.8182  obj_loss: 0.1057  noobj_loss: 0.1115  bbox_loss: 0.1304  cls_loss: 0.0048
+<<<iteration:[100/117] - total_loss: 0.6847  obj_loss: 0.1595  noobj_loss: 0.1062  bbox_loss: 0.0937  cls_loss: 0.0038
+epoch:84/100 - Train Loss: 0.6765, Val Loss: 5.8657
+<<<iteration:[20/117] - total_loss: 0.8013  obj_loss: 0.0734  noobj_loss: 0.0938  bbox_loss: 0.1355  cls_loss: 0.0035
+<<<iteration:[40/117] - total_loss: 0.3927  obj_loss: 0.1265  noobj_loss: 0.1006  bbox_loss: 0.0424  cls_loss: 0.0039
+<<<iteration:[60/117] - total_loss: 0.8027  obj_loss: 0.1903  noobj_loss: 0.1166  bbox_loss: 0.1101  cls_loss: 0.0037
+<<<iteration:[80/117] - total_loss: 0.6309  obj_loss: 0.1302  noobj_loss: 0.1075  bbox_loss: 0.0884  cls_loss: 0.0051
+<<<iteration:[100/117] - total_loss: 0.8860  obj_loss: 0.1886  noobj_loss: 0.1137  bbox_loss: 0.1270  cls_loss: 0.0057
+epoch:85/100 - Train Loss: 0.6827, Val Loss: 5.4791
+<<<iteration:[20/117] - total_loss: 0.7453  obj_loss: 0.0920  noobj_loss: 0.0954  bbox_loss: 0.1198  cls_loss: 0.0066
+<<<iteration:[40/117] - total_loss: 0.5122  obj_loss: 0.1145  noobj_loss: 0.0898  bbox_loss: 0.0692  cls_loss: 0.0071
+<<<iteration:[60/117] - total_loss: 0.6729  obj_loss: 0.1193  noobj_loss: 0.0997  bbox_loss: 0.0996  cls_loss: 0.0056
+<<<iteration:[80/117] - total_loss: 0.4257  obj_loss: 0.1550  noobj_loss: 0.1013  bbox_loss: 0.0432  cls_loss: 0.0042
+<<<iteration:[100/117] - total_loss: 0.5531  obj_loss: 0.1349  noobj_loss: 0.0909  bbox_loss: 0.0739  cls_loss: 0.0032
+epoch:86/100 - Train Loss: 0.5985, Val Loss: 5.2290
+<<<iteration:[20/117] - total_loss: 0.7064  obj_loss: 0.1094  noobj_loss: 0.0872  bbox_loss: 0.1100  cls_loss: 0.0034
+<<<iteration:[40/117] - total_loss: 0.7147  obj_loss: 0.1669  noobj_loss: 0.0986  bbox_loss: 0.0985  cls_loss: 0.0062
+<<<iteration:[60/117] - total_loss: 0.4771  obj_loss: 0.0983  noobj_loss: 0.0939  bbox_loss: 0.0657  cls_loss: 0.0032
+<<<iteration:[80/117] - total_loss: 0.4938  obj_loss: 0.1416  noobj_loss: 0.0916  bbox_loss: 0.0603  cls_loss: 0.0047
+<<<iteration:[100/117] - total_loss: 0.6993  obj_loss: 0.1802  noobj_loss: 0.1004  bbox_loss: 0.0929  cls_loss: 0.0045
+epoch:87/100 - Train Loss: 0.6168, Val Loss: 5.3457
+<<<iteration:[20/117] - total_loss: 0.5821  obj_loss: 0.2064  noobj_loss: 0.1020  bbox_loss: 0.0644  cls_loss: 0.0027
+<<<iteration:[40/117] - total_loss: 0.4834  obj_loss: 0.1536  noobj_loss: 0.1013  bbox_loss: 0.0552  cls_loss: 0.0032
+<<<iteration:[60/117] - total_loss: 0.6080  obj_loss: 0.1362  noobj_loss: 0.1003  bbox_loss: 0.0836  cls_loss: 0.0037
+<<<iteration:[80/117] - total_loss: 0.7511  obj_loss: 0.1384  noobj_loss: 0.1100  bbox_loss: 0.1109  cls_loss: 0.0033
+<<<iteration:[100/117] - total_loss: 0.4140  obj_loss: 0.1449  noobj_loss: 0.0988  bbox_loss: 0.0432  cls_loss: 0.0035
+epoch:88/100 - Train Loss: 0.5703, Val Loss: 5.3625
+<<<iteration:[20/117] - total_loss: 0.5286  obj_loss: 0.1725  noobj_loss: 0.1086  bbox_loss: 0.0598  cls_loss: 0.0029
+<<<iteration:[40/117] - total_loss: 0.7522  obj_loss: 0.1635  noobj_loss: 0.1192  bbox_loss: 0.1052  cls_loss: 0.0033
+<<<iteration:[60/117] - total_loss: 0.4440  obj_loss: 0.1721  noobj_loss: 0.1199  bbox_loss: 0.0419  cls_loss: 0.0028
+<<<iteration:[80/117] - total_loss: 0.5057  obj_loss: 0.1516  noobj_loss: 0.1101  bbox_loss: 0.0593  cls_loss: 0.0024
+<<<iteration:[100/117] - total_loss: 0.5096  obj_loss: 0.1230  noobj_loss: 0.0961  bbox_loss: 0.0672  cls_loss: 0.0026
+epoch:89/100 - Train Loss: 0.5206, Val Loss: 5.6462
+<<<iteration:[20/117] - total_loss: 0.4257  obj_loss: 0.1778  noobj_loss: 0.1154  bbox_loss: 0.0377  cls_loss: 0.0018
+<<<iteration:[40/117] - total_loss: 0.6125  obj_loss: 0.1469  noobj_loss: 0.1185  bbox_loss: 0.0807  cls_loss: 0.0027
+<<<iteration:[60/117] - total_loss: 0.5490  obj_loss: 0.1913  noobj_loss: 0.1212  bbox_loss: 0.0590  cls_loss: 0.0019
+<<<iteration:[80/117] - total_loss: 0.4753  obj_loss: 0.1680  noobj_loss: 0.1275  bbox_loss: 0.0481  cls_loss: 0.0029
+<<<iteration:[100/117] - total_loss: 0.4784  obj_loss: 0.1544  noobj_loss: 0.1064  bbox_loss: 0.0535  cls_loss: 0.0031
+epoch:90/100 - Train Loss: 0.5200, Val Loss: 5.5049
+<<<iteration:[20/117] - total_loss: 0.7434  obj_loss: 0.2115  noobj_loss: 0.1344  bbox_loss: 0.0922  cls_loss: 0.0038
+<<<iteration:[40/117] - total_loss: 0.5199  obj_loss: 0.1794  noobj_loss: 0.1397  bbox_loss: 0.0538  cls_loss: 0.0016
+<<<iteration:[60/117] - total_loss: 0.4109  obj_loss: 0.1792  noobj_loss: 0.1203  bbox_loss: 0.0340  cls_loss: 0.0015
+<<<iteration:[80/117] - total_loss: 0.5480  obj_loss: 0.1389  noobj_loss: 0.1205  bbox_loss: 0.0692  cls_loss: 0.0027
+<<<iteration:[100/117] - total_loss: 0.4219  obj_loss: 0.1377  noobj_loss: 0.1135  bbox_loss: 0.0451  cls_loss: 0.0019
+epoch:91/100 - Train Loss: 0.5761, Val Loss: 6.2482
+<<<iteration:[20/117] - total_loss: 0.9515  obj_loss: 0.1419  noobj_loss: 0.0968  bbox_loss: 0.1516  cls_loss: 0.0033
+<<<iteration:[40/117] - total_loss: 0.5880  obj_loss: 0.1487  noobj_loss: 0.0977  bbox_loss: 0.0774  cls_loss: 0.0034
+<<<iteration:[60/117] - total_loss: 0.4912  obj_loss: 0.1193  noobj_loss: 0.1035  bbox_loss: 0.0631  cls_loss: 0.0045
+<<<iteration:[80/117] - total_loss: 0.4559  obj_loss: 0.1432  noobj_loss: 0.0988  bbox_loss: 0.0521  cls_loss: 0.0029
+<<<iteration:[100/117] - total_loss: 0.4639  obj_loss: 0.1210  noobj_loss: 0.0837  bbox_loss: 0.0593  cls_loss: 0.0043
+epoch:92/100 - Train Loss: 0.5786, Val Loss: 5.7309
+<<<iteration:[20/117] - total_loss: 1.7639  obj_loss: 0.1676  noobj_loss: 0.1199  bbox_loss: 0.3046  cls_loss: 0.0131
+<<<iteration:[40/117] - total_loss: 6.3439  obj_loss: 0.1927  noobj_loss: 0.2591  bbox_loss: 1.1931  cls_loss: 0.0563
+<<<iteration:[60/117] - total_loss: 8.9652  obj_loss: 0.1972  noobj_loss: 0.2303  bbox_loss: 1.7123  cls_loss: 0.0916
+<<<iteration:[80/117] - total_loss: 5.3102  obj_loss: 0.2038  noobj_loss: 0.2395  bbox_loss: 0.9872  cls_loss: 0.0507
+<<<iteration:[100/117] - total_loss: 4.3485  obj_loss: 0.1390  noobj_loss: 0.1930  bbox_loss: 0.8146  cls_loss: 0.0401
+epoch:93/100 - Train Loss: 4.8525, Val Loss: 8.5133
+<<<iteration:[20/117] - total_loss: 2.9181  obj_loss: 0.1267  noobj_loss: 0.1664  bbox_loss: 0.5352  cls_loss: 0.0324
+<<<iteration:[40/117] - total_loss: 2.2269  obj_loss: 0.1076  noobj_loss: 0.1665  bbox_loss: 0.4009  cls_loss: 0.0316
+<<<iteration:[60/117] - total_loss: 2.7512  obj_loss: 0.1290  noobj_loss: 0.1855  bbox_loss: 0.4962  cls_loss: 0.0485
+<<<iteration:[80/117] - total_loss: 2.6417  obj_loss: 0.1004  noobj_loss: 0.1748  bbox_loss: 0.4839  cls_loss: 0.0341
+<<<iteration:[100/117] - total_loss: 1.6510  obj_loss: 0.1114  noobj_loss: 0.1621  bbox_loss: 0.2865  cls_loss: 0.0263
+epoch:94/100 - Train Loss: 2.2519, Val Loss: 6.4658
+<<<iteration:[20/117] - total_loss: 1.2272  obj_loss: 0.1307  noobj_loss: 0.1455  bbox_loss: 0.2002  cls_loss: 0.0227
+<<<iteration:[40/117] - total_loss: 1.2471  obj_loss: 0.0760  noobj_loss: 0.1306  bbox_loss: 0.2181  cls_loss: 0.0152
+<<<iteration:[60/117] - total_loss: 1.7772  obj_loss: 0.1074  noobj_loss: 0.1345  bbox_loss: 0.3157  cls_loss: 0.0243
+<<<iteration:[80/117] - total_loss: 1.2942  obj_loss: 0.0725  noobj_loss: 0.1478  bbox_loss: 0.2251  cls_loss: 0.0222
+<<<iteration:[100/117] - total_loss: 1.2128  obj_loss: 0.0777  noobj_loss: 0.1180  bbox_loss: 0.2113  cls_loss: 0.0196
+epoch:95/100 - Train Loss: 1.3000, Val Loss: 6.0505
+<<<iteration:[20/117] - total_loss: 1.0092  obj_loss: 0.0988  noobj_loss: 0.1158  bbox_loss: 0.1667  cls_loss: 0.0188
+<<<iteration:[40/117] - total_loss: 0.5872  obj_loss: 0.0909  noobj_loss: 0.1133  bbox_loss: 0.0852  cls_loss: 0.0138
+<<<iteration:[60/117] - total_loss: 1.0098  obj_loss: 0.0716  noobj_loss: 0.1114  bbox_loss: 0.1735  cls_loss: 0.0148
+<<<iteration:[80/117] - total_loss: 0.9338  obj_loss: 0.0939  noobj_loss: 0.1109  bbox_loss: 0.1540  cls_loss: 0.0144
+<<<iteration:[100/117] - total_loss: 1.1260  obj_loss: 0.0878  noobj_loss: 0.1176  bbox_loss: 0.1921  cls_loss: 0.0190
+epoch:96/100 - Train Loss: 0.8889, Val Loss: 5.8742
+<<<iteration:[20/117] - total_loss: 0.5993  obj_loss: 0.1114  noobj_loss: 0.1085  bbox_loss: 0.0840  cls_loss: 0.0136
+<<<iteration:[40/117] - total_loss: 0.9501  obj_loss: 0.1056  noobj_loss: 0.1070  bbox_loss: 0.1555  cls_loss: 0.0133
+<<<iteration:[60/117] - total_loss: 0.9887  obj_loss: 0.0874  noobj_loss: 0.1088  bbox_loss: 0.1665  cls_loss: 0.0145
+<<<iteration:[80/117] - total_loss: 0.6357  obj_loss: 0.0829  noobj_loss: 0.1043  bbox_loss: 0.0972  cls_loss: 0.0145
+<<<iteration:[100/117] - total_loss: 0.5148  obj_loss: 0.1026  noobj_loss: 0.1023  bbox_loss: 0.0700  cls_loss: 0.0109
+epoch:97/100 - Train Loss: 0.7325, Val Loss: 5.5486
+<<<iteration:[20/117] - total_loss: 0.7475  obj_loss: 0.1239  noobj_loss: 0.1089  bbox_loss: 0.1117  cls_loss: 0.0104
+<<<iteration:[40/117] - total_loss: 0.7882  obj_loss: 0.1583  noobj_loss: 0.1037  bbox_loss: 0.1137  cls_loss: 0.0097
+<<<iteration:[60/117] - total_loss: 1.1148  obj_loss: 0.0966  noobj_loss: 0.1013  bbox_loss: 0.1909  cls_loss: 0.0130
+<<<iteration:[80/117] - total_loss: 0.9521  obj_loss: 0.1311  noobj_loss: 0.1054  bbox_loss: 0.1514  cls_loss: 0.0111
+<<<iteration:[100/117] - total_loss: 0.5641  obj_loss: 0.0503  noobj_loss: 0.1082  bbox_loss: 0.0904  cls_loss: 0.0075
+epoch:98/100 - Train Loss: 0.8220, Val Loss: 6.4316
+<<<iteration:[20/117] - total_loss: 0.8979  obj_loss: 0.0802  noobj_loss: 0.1191  bbox_loss: 0.1489  cls_loss: 0.0137
+<<<iteration:[40/117] - total_loss: 0.8175  obj_loss: 0.0721  noobj_loss: 0.1070  bbox_loss: 0.1369  cls_loss: 0.0073
+<<<iteration:[60/117] - total_loss: 0.5890  obj_loss: 0.1225  noobj_loss: 0.0945  bbox_loss: 0.0820  cls_loss: 0.0095
+<<<iteration:[80/117] - total_loss: 11.5959  obj_loss: 0.1376  noobj_loss: 0.3425  bbox_loss: 2.2406  cls_loss: 0.0840
+<<<iteration:[100/117] - total_loss: 7.5960  obj_loss: 0.1134  noobj_loss: 0.2892  bbox_loss: 1.4432  cls_loss: 0.1221
+epoch:99/100 - Train Loss: 4.1498, Val Loss: 7.5408
+<<<iteration:[20/117] - total_loss: 2.4903  obj_loss: 0.0746  noobj_loss: 0.2371  bbox_loss: 0.4441  cls_loss: 0.0769
+<<<iteration:[40/117] - total_loss: 2.1124  obj_loss: 0.0981  noobj_loss: 0.2039  bbox_loss: 0.3688  cls_loss: 0.0684
+<<<iteration:[60/117] - total_loss: 1.8642  obj_loss: 0.0828  noobj_loss: 0.2211  bbox_loss: 0.3223  cls_loss: 0.0593
+<<<iteration:[80/117] - total_loss: 1.4571  obj_loss: 0.0775  noobj_loss: 0.2419  bbox_loss: 0.2370  cls_loss: 0.0737
+<<<iteration:[100/117] - total_loss: 1.8553  obj_loss: 0.1172  noobj_loss: 0.2143  bbox_loss: 0.3134  cls_loss: 0.0641
+epoch:100/100 - Train Loss: 1.8002, Val Loss: 5.4623

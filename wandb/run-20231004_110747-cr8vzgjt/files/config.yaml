@@ -1,0 +1,51 @@
+wandb_version: 1
+
+learning_rate:
+  desc: null
+  value: 1.0e-05
+batch_size:
+  desc: null
+  value: 1
+architecture:
+  desc: null
+  value: YOLO_SWIN_S
+dataset:
+  desc: null
+  value: BODY
+epochs:
+  desc: null
+  value: 100
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.10
+    cli_version: 0.15.11
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1696417667.657777
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      - 80
+      2:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      - 80
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.8.10
+      5: 0.15.11
+      8:
+      - 1
+      - 5
+      13: linux-x86_64
