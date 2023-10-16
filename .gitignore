@@ -2,3 +2,4 @@ data/
 data
 *.pth
 .ipynb_checkpoints/
+experiments/.ipynb_checkpoints/
