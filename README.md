@@ -1,4 +1,4 @@
-# Attention mechanism 기반 블로우 성형 공정 불량 Detecion
+# Attention mechanism 기반 블로우 성형 공정 불량 Detection
 
 ## **Neck**
 
@@ -38,7 +38,7 @@
     
     ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg)
     
-    ![Untitled](/workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape2_14.jpg)
+    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape2_14.jpg)
     
 
 - Image Patching
@@ -63,9 +63,9 @@
     
     형광초록색: prediction
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%20Result%20Comparison(Ablation%20study)%20d0da20a7b7984179a9e5f028a4bf8e9c/Untitled%202.png)
+    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape1_148.jpg)
     
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%20Result%20Comparison(Ablation%20study)%20d0da20a7b7984179a9e5f028a4bf8e9c/Untitled%203.png)
+    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape2_14.jpg)
     
 
 - Image Patching & Augmentation
