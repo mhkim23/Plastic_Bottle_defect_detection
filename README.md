@@ -1,4 +1,4 @@
-# 우학연 Result Comparison(Ablation study)
+# Attention mechanism 기반 블로우 성형 공정 불량 Detecion
 
 ## **Neck**
 
@@ -36,7 +36,7 @@
     
     형광초록색: prediction
     
-    ![Untitled](/workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg)
+    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg)
     
     ![Untitled](/workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape2_14.jpg)
     
