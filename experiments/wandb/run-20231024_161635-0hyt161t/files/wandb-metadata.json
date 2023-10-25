@@ -1,0 +1,127 @@
+{
+    "os": "Linux-5.15.0-87-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-10-24T16:16:41.415388",
+    "startedAt": "2023-10-24T16:16:35.636718",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "workspace/Plastic_Bottle_defect_detection/experiments/yolo_resnet_aug_NECK.ipynb",
+    "codePathLocal": null,
+    "root": "/workspace/Plastic_Bottle_defect_detection",
+    "git": {
+        "remote": "https://github.com/mhkim23/Plastic_Bottle_defect_detection.git",
+        "commit": "1646221de18c55f24a4a917a56e38956fe807d70"
+    },
+    "email": "syb6245@naver.com",
+    "host": "7c5762eaf692",
+    "username": "root",
+    "executable": "/usr/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2394.7599375,
+        "min": 800.0,
+        "max": 4275.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 816.159,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.3232879638672,
+            "used": 141.02995681762695
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.451313018798828
+    }
+}

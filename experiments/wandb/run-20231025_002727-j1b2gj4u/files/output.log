@@ -1,0 +1,29 @@
+/usr/local/lib/python3.8/dist-packages/torch/functional.py:504: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at /opt/pytorch/pytorch/aten/src/ATen/native/TensorShape.cpp:3423.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+<<<iteration:[20/2625] - total_loss: 4.8302  obj_loss: 0.0841  noobj_loss: 3.7001  bbox_loss: 0.4552  cls_loss: 0.6203
+<<<iteration:[40/2625] - total_loss: 3.3632  obj_loss: 0.0565  noobj_loss: 2.5302  bbox_loss: 0.3221  cls_loss: 0.4311
+<<<iteration:[60/2625] - total_loss: 2.9149  obj_loss: 0.0478  noobj_loss: 2.2849  bbox_loss: 0.2681  cls_loss: 0.3844
+<<<iteration:[80/2625] - total_loss: 2.8605  obj_loss: 0.0495  noobj_loss: 2.1578  bbox_loss: 0.2740  cls_loss: 0.3622
+<<<iteration:[100/2625] - total_loss: 2.8026  obj_loss: 0.0509  noobj_loss: 2.0280  bbox_loss: 0.2809  cls_loss: 0.3333
+<<<iteration:[120/2625] - total_loss: 2.5262  obj_loss: 0.0467  noobj_loss: 1.9197  bbox_loss: 0.2287  cls_loss: 0.3759
+<<<iteration:[140/2625] - total_loss: 2.9929  obj_loss: 0.0424  noobj_loss: 1.8851  bbox_loss: 0.3210  cls_loss: 0.4031
+<<<iteration:[160/2625] - total_loss: 2.5084  obj_loss: 0.0496  noobj_loss: 1.7764  bbox_loss: 0.2311  cls_loss: 0.4152
+<<<iteration:[180/2625] - total_loss: 2.3381  obj_loss: 0.0415  noobj_loss: 1.6485  bbox_loss: 0.2202  cls_loss: 0.3713
+<<<iteration:[200/2625] - total_loss: 2.3101  obj_loss: 0.0394  noobj_loss: 1.5977  bbox_loss: 0.2216  cls_loss: 0.3637
+<<<iteration:[220/2625] - total_loss: 2.2488  obj_loss: 0.0416  noobj_loss: 1.5687  bbox_loss: 0.2121  cls_loss: 0.3622
+<<<iteration:[240/2625] - total_loss: 2.0553  obj_loss: 0.0391  noobj_loss: 1.5068  bbox_loss: 0.1839  cls_loss: 0.3434
+<<<iteration:[260/2625] - total_loss: 2.0174  obj_loss: 0.0396  noobj_loss: 1.4312  bbox_loss: 0.1841  cls_loss: 0.3416
+<<<iteration:[280/2625] - total_loss: 2.7452  obj_loss: 0.0332  noobj_loss: 1.4344  bbox_loss: 0.3076  cls_loss: 0.4566
+<<<iteration:[300/2625] - total_loss: 2.4164  obj_loss: 0.0396  noobj_loss: 1.4368  bbox_loss: 0.2610  cls_loss: 0.3535
+<<<iteration:[320/2625] - total_loss: 2.2447  obj_loss: 0.0397  noobj_loss: 1.3680  bbox_loss: 0.2333  cls_loss: 0.3547
+<<<iteration:[340/2625] - total_loss: 2.3022  obj_loss: 0.0437  noobj_loss: 1.3197  bbox_loss: 0.2336  cls_loss: 0.4308
+<<<iteration:[360/2625] - total_loss: 2.0313  obj_loss: 0.0370  noobj_loss: 1.3001  bbox_loss: 0.1931  cls_loss: 0.3789
+<<<iteration:[380/2625] - total_loss: 2.0492  obj_loss: 0.0330  noobj_loss: 1.2595  bbox_loss: 0.2113  cls_loss: 0.3299
+<<<iteration:[400/2625] - total_loss: 2.0912  obj_loss: 0.0392  noobj_loss: 1.2179  bbox_loss: 0.2043  cls_loss: 0.4217
+<<<iteration:[420/2625] - total_loss: 1.9848  obj_loss: 0.0363  noobj_loss: 1.1987  bbox_loss: 0.1972  cls_loss: 0.3633
+<<<iteration:[440/2625] - total_loss: 1.8976  obj_loss: 0.0417  noobj_loss: 1.1351  bbox_loss: 0.1894  cls_loss: 0.3412
+<<<iteration:[460/2625] - total_loss: 1.7889  obj_loss: 0.0527  noobj_loss: 1.0905  bbox_loss: 0.1738  cls_loss: 0.3222
+<<<iteration:[480/2625] - total_loss: 1.8008  obj_loss: 0.0415  noobj_loss: 1.0625  bbox_loss: 0.1746  cls_loss: 0.3548
+<<<iteration:[500/2625] - total_loss: 1.7461  obj_loss: 0.0438  noobj_loss: 1.0285  bbox_loss: 0.1642  cls_loss: 0.3667
+<<<iteration:[520/2625] - total_loss: 1.8050  obj_loss: 0.0456  noobj_loss: 1.0170  bbox_loss: 0.1820  cls_loss: 0.3410
+<<<iteration:[540/2625] - total_loss: 1.6744  obj_loss: 0.0386  noobj_loss: 1.0075  bbox_loss: 0.1566  cls_loss: 0.3490
