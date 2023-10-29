@@ -32,9 +32,9 @@
     
     /workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/
     
-    빨간색: annotation
+    형광초록색: ground truth
     
-    형광초록색: prediction
+    빨간색: prediction
     
     ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg)
     
@@ -59,9 +59,9 @@
     
     /workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/
     
-    빨간색: annotation
+    형광초록색: ground truth
     
-    형광초록색: prediction
+    빨간색: model prediction
     
     ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape1_148.jpg)
     
