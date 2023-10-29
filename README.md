@@ -32,7 +32,7 @@
     
     /workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/
     
-    파란색: annotation
+    빨간색: annotation
     
     형광초록색: prediction
     
@@ -59,7 +59,7 @@
     
     /workspace/Plastic_Bottle_defect_detection/results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/
     
-    파란색: annotation
+    빨간색: annotation
     
     형광초록색: prediction
     
