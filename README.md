@@ -1,5 +1,5 @@
 # Attention mechanism 기반 블로우 성형 공정 불량 Detection
-2023 성균관대학교 기계공학부 학부학술제 awarded
+2023 성균관대학교 기계공학부 학부학술제 우수상상
 
 ## **Yolo-ResNet**
 
@@ -27,10 +27,8 @@
     
     파란색: prediction
     
-    ![Untitled](results/boxed_images/YOLO_RESNET18_neck_LR0.0001_AUG20/shape1_148.jpg)
-    
-    ![Untitled](results/boxed_images/YOLO_RESNET18_neck_LR0.0001_AUG20/shape2_14.jpg)
-    
+    ![Untitled](results/boxed_images/YOLO_RESNET18_neck_LR0.0001_AUG20/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_RESNET18_neck_LR0.0001_AUG20/shape2_14.jpg)
+    --- | --- |    
 
 ## **Yolo-Swin**
 
@@ -131,10 +129,6 @@ mAP50 = 0.40
     → stray와 target이라는 두가지 class로 이뤄진 데이터셋
     
     → 배경에 noise가 많고 객체가 작다는 점에서  현재 detection 적용하려는 neck 데이터셋과 유사하다고 판단
-    
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%20Result%20Comparison%201614d330e56f4893b08f2e68bb4e9b6f/Untitled%2016.png)
-    
-    ![Untitled](%E1%84%8B%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%20Result%20Comparison%201614d330e56f4893b08f2e68bb4e9b6f/Untitled%2017.png)
     
     *patch factor:50+aug factor:4 ⇒ train 42000장, valid 7200장
     
