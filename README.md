@@ -58,9 +58,8 @@ mAP50 = 0.40
 
 파란색: prediction
 
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg)
-    
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape2_14.jpg)
+![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_AUG20/shape2_14.jpg)
+--- | --- |
 
 - **Image Patching**
     
@@ -88,10 +87,8 @@ mAP50 = 0.40
     
     파란색: prediction
     
-    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape1_148.jpg)
-    
-    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape2_14.jpg)
-    
+    ![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_Image_Patch50/shape2_14.jpg)
+    --- | --- |
 
 - **Image Patching & Augmentation**
     
@@ -118,9 +115,8 @@ mAP50 = 0.40
     파란색: prediction
     
 
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4/shape1_148.jpg)
-    
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4/shape2_14.jpg)
+![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4/shape2_14.jpg)
+--- | --- |
 
 - **Image Patching & Augmentation2**
     
@@ -150,10 +146,8 @@ mAP50 = 0.40
     
     파란색: prediction
     
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4_radio_pretrained/shape1_148.jpg)
-    
-![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4_radio_pretrained/shape2_14.jpg)
-
+![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4_radio_pretrained/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_SWIN_T_neck_LR0.0001_IP50_AUG4_radio_pretrained/shape2_14.jpg)
+--- | --- |
 
 ## Yolo-CBAM
 
@@ -187,8 +181,6 @@ mAP50 = 0.40
     
       파란색: prediction
     
-![Untitled](results/boxed_images/YOLO_RESNET_CBAM_neck_LR0.0001_IP50_Pretrained/shape1_148.jpg)
-    
-![Untitled](results/boxed_images/YOLO_RESNET_CBAM_neck_LR0.0001_IP50_Pretrained/shape2_14.jpg)
-    
+![Untitled](results/boxed_images/YOLO_RESNET_CBAM_neck_LR0.0001_IP50_Pretrained/shape1_148.jpg) |![Untitled](results/boxed_images/YOLO_RESNET_CBAM_neck_LR0.0001_IP50_Pretrained/shape2_14.jpg)
+--- | --- |    
 
