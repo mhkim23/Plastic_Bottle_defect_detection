@@ -1,5 +1,5 @@
 # Attention mechanism 기반 블로우 성형 공정 불량 Detection
-2023 성균관대학교 기계공학부 학부학술제 우수상상
+2023 성균관대학교 기계공학부 학부학술제 우수상
 
 ## **Yolo-ResNet**
 
